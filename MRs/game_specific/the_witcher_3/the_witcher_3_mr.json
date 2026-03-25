@@ -1,0 +1,68 @@
+{
+  "type": "game_specific",
+  "game": "The Witcher 3",
+  "engine": "REDengine 3",
+  "count": 10,
+  "metamorphic_relations": [
+    {
+      "id": "W3-001",
+      "category": "physics",
+      "name": "Enemy body or head launched after kill",
+      "check": "After a killing blow, is the enemy's body or severed head catapulted unnaturally into the sky or flung with extreme ragdoll force far beyond what the attack would realistically cause?"
+    },
+    {
+      "id": "W3-002",
+      "category": "physics",
+      "name": "Character floating in air",
+      "check": "Is a character hovering in mid-air in a seated, standing, or falling pose but their position is not actually changing? They appear stuck or suspended with no ground contact and no downward movement."
+    },
+    {
+      "id": "W3-003",
+      "category": "animation",
+      "name": "Horse or animal slides without leg animation",
+      "check": "Is a horse or animal gliding across the ground sideways or forward with completely static legs \u2014 no walking, trotting, or running animation playing while the model moves?"
+    },
+    {
+      "id": "W3-004",
+      "category": "animation",
+      "name": "Monster frozen or twitching in place",
+      "check": "Is a monster or creature completely frozen in its idle pose while the player moves freely, or is it twitching, jerking, and sliding without playing a proper movement or attack animation?"
+    },
+    {
+      "id": "W3-005",
+      "category": "collision",
+      "name": "Character clips through closed door or wall",
+      "check": "Does a character walk straight through a closed door or solid wall without opening it or breaking it?"
+    },
+    {
+      "id": "W3-006",
+      "category": "rendering",
+      "name": "Missing body part or T-pose",
+      "check": "Is an NPC's head or body part completely invisible or not rendered, or is an NPC frozen in a T-pose instead of their normal idle animation?"
+    },
+    {
+      "id": "W3-007",
+      "category": "object_physics",
+      "name": "Boat flips or spins uncontrollably",
+      "check": "Does a small boat suddenly flip upside down or spin rapidly in calm water without impact?"
+    },
+    {
+      "id": "W3-008",
+      "category": "animation",
+      "name": "NPC walks without moving legs",
+      "check": "Is an NPC visibly moving forward while their legs remain completely still in idle stance?"
+    },
+    {
+      "id": "W3-009",
+      "category": "physics",
+      "name": "Enemy stuck half underground",
+      "check": "Is a monster or enemy partially submerged in the ground, with legs or torso visibly inside terrain while still alive or attacking?"
+    },
+    {
+      "id": "W3-010",
+      "category": "physics",
+      "name": "Dead body bends unnaturally",
+      "check": "After death, does an enemy's body twist into an impossible shape with limbs sharply bent backward or stretched unnaturally?"
+    }
+  ]
+}

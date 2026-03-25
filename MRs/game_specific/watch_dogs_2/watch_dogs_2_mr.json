@@ -1,0 +1,98 @@
+{
+  "type": "game_specific",
+  "game": "Watch Dogs 2",
+  "engine": "Disrupt",
+  "count": 15,
+  "metamorphic_relations": [
+    {
+      "id": "WD2-001",
+      "category": "vehicle_physics",
+      "name": "Vehicle launched or spinning from minor collision",
+      "check": "Is a car, truck, or motorcycle suddenly launched into the sky, flipping, or spinning uncontrollably after hitting a small object like a street sign or curb?"
+    },
+    {
+      "id": "WD2-002",
+      "category": "object_physics",
+      "name": "Heavy object shoots upward without proportionate force",
+      "check": "Is a shipping container, dumpster, or other heavy object suddenly launched vertically into the sky at high speed with no explosion large enough to justify the movement?"
+    },
+    {
+      "id": "WD2-003",
+      "category": "vehicle_physics",
+      "name": "Vehicle flies over wall or barrier unnaturally",
+      "check": "Does a car travel through the air over a wall or barrier without a ramp, explosion, or jump that would explain the trajectory?"
+    },
+    {
+      "id": "WD2-004",
+      "category": "spawning",
+      "name": "Vehicle despawns when player approaches",
+      "check": "Does a parked vehicle abruptly vanish as the player walks toward it or tries to enter it?"
+    },
+    {
+      "id": "WD2-005",
+      "category": "spawning",
+      "name": "Vehicle or object vanishes from scene suddenly",
+      "check": "Does a vehicle or large object that is stuck on or resting on something suddenly disappear without any physical cause?"
+    },
+    {
+      "id": "WD2-006",
+      "category": "teleportation",
+      "name": "Character teleports into or through solid object",
+      "check": "Does the player or an NPC instantly relocate from one position to inside a container or solid object without any transition animation?"
+    },
+    {
+      "id": "WD2-007",
+      "category": "animation",
+      "name": "Wrong animation triggered on interaction",
+      "check": "Does the player trigger a completely wrong animation when interacting with a ladder, ledge, or environmental object?"
+    },
+    {
+      "id": "WD2-008",
+      "category": "collision",
+      "name": "Character or vehicle passes through solid barrier",
+      "check": "Does the player, an NPC, or a vehicle pass directly through a solid wall, fence, gate, or barrier as if it does not exist?"
+    },
+    {
+      "id": "WD2-009",
+      "category": "logical",
+      "name": "Vehicle drives itself without a driver",
+      "check": "Does a car continue to drive, accelerate, and steer after its driver has visibly stepped out? The driver's seat is empty but the vehicle keeps moving."
+    },
+    {
+      "id": "WD2-010",
+      "category": "logical",
+      "name": "NPCs walk through obstacles instead of around them",
+      "check": "Do pedestrian NPCs walk directly into, through, or over obstacles such as bushes, fences, or trash cans instead of walking around them?"
+    },
+    {
+      "id": "WD2-011",
+      "category": "physics",
+      "name": "Player character launched extreme distance",
+      "check": "Is the player suddenly thrown or propelled an extreme distance from a minor impact such as a slow vehicle bump? The force is wildly disproportionate."
+    },
+    {
+      "id": "WD2-012",
+      "category": "physics",
+      "name": "Player performs impossibly high or far jump",
+      "check": "Does the player jump from ground level and land directly on a rooftop or high ledge far beyond normal jump height with no intermediate surface?"
+    },
+    {
+      "id": "WD2-013",
+      "category": "collision",
+      "name": "RC car or drone falls through map",
+      "check": "Does the Jumper (RC car) or quadcopter clip through the ground and fall into the void beneath the game world?"
+    },
+    {
+      "id": "WD2-014",
+      "category": "vehicle_physics",
+      "name": "Large vehicle launched and spinning by explosion",
+      "check": "Is a semi-truck, bus, or other large vehicle catapulted high into the air and sent spinning by an explosion too small to justify the force?"
+    },
+    {
+      "id": "WD2-015",
+      "category": "physics",
+      "name": "Exaggerated crash ejection or ragdoll",
+      "check": "During a vehicle crash, is the rider ejected with wildly exaggerated force, flying an unrealistic distance through the air far beyond what the crash speed would cause?"
+    }
+  ]
+}
