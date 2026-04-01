@@ -1,0 +1,80 @@
+{
+  "type": "game_specific",
+  "game": "Fallout 4",
+  "engine": "Creation Engine",
+  "count": 12,
+  "metamorphic_relations": [
+    {
+      "id": "FO-001",
+      "category": "collision",
+      "name": "Body or NPC embedded in ground",
+      "check": "Is an NPC or corpse partially inside the ground \u2014 head sticking out above the surface, body buried below, or stuck upside-down emerging from the floor?"
+    },
+    {
+      "id": "FO-002",
+      "category": "collision",
+      "name": "Body clips through solid structure",
+      "check": "Does a corpse or NPC mesh pass through a fence, door, gate, or wall? Look for body parts visibly on both sides of a barrier that should block them."
+    },
+    {
+      "id": "FO-003",
+      "category": "physics",
+      "name": "Creature or NPC launched into sky",
+      "check": "Is a creature (deathclaw, assaultron, raider) catapulted unnaturally high into the sky? The upward force should be vastly disproportionate to the cause \u2014 far beyond normal combat knockback."
+    },
+    {
+      "id": "FO-004",
+      "category": "physics",
+      "name": "Characters float or slide through air in combat",
+      "check": "Are characters hovering or drifting through the air during melee combat \u2014 swinging weapons while their feet have no ground contact and no jumping animation is playing?"
+    },
+    {
+      "id": "FO-005",
+      "category": "animation",
+      "name": "Limb animation distortion",
+      "check": "Are an object's legs or arms twisting, rotating through the body, or bending in a physically impossible direction? Look for limbs that clip through the torso or spin unnaturally."
+    },
+    {
+      "id": "FO-006",
+      "category": "physics",
+      "name": "Object spinning or rolling on flat ground",
+      "check": "Is a box, crate, or other prop spinning, rotating, or rolling across a flat surface on its own, with no character or explosion acting on it?"
+    },
+    {
+      "id": "FO-007",
+      "category": "rendering",
+      "name": "Rendering corruption or geometry hole",
+      "check": "Are background textures corrupted, missing, or showing the void? Is the player character stuck inside a wall with the camera showing both rooms simultaneously?"
+    },
+    {
+      "id": "FO-008",
+      "category": "object_behavior",
+      "name": "NPC stuck in repetitive dialogue loop",
+      "check": "Does an NPC repeat the same single voice line continuously without player interaction?"
+    },
+    {
+      "id": "FO-009",
+      "category": "audio",
+      "name": "Persistent combat music after enemies are gone",
+      "check": "Does intense combat music continue playing long after all enemies are eliminated and danger status is cleared?"
+    },
+    {
+      "id": "FO-010",
+      "category": "ui",
+      "name": "Interface frozen but game continues",
+      "check": "Does the screen remain stuck on a tab (Inventory, Map, Stats) while the world continues moving in the background? Player cannot switch tabs or close normally."
+    },
+    {
+      "id": "FO-011",
+      "category": "system",
+      "name": "Third-person camera stuck inside character",
+      "check": "Does the third-person camera zoom extremely close into the player's back or inside the character model, blocking visibility, and not reset after switching perspective?"
+    },
+    {
+      "id": "FO-012",
+      "category": "system",
+      "name": "Missing world objects",
+      "check": "The game is being loaded without the actual objects and it's only the main character in the game."
+    }
+  ]
+}

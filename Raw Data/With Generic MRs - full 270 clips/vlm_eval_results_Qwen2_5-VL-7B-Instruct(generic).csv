@@ -1,0 +1,1887 @@
+file_id,game,video_path,gt_is_glitch,has_gt,gt_descr1,gt_descr2,props_raw,props_glitch,props_desc,props_valid_json,props_correct_match,props_time_s,props_prompt_tokens,props_completion_tokens
+19qkov,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/19qkov/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to move naturally within the environment, and there are no signs of clipping, floating, or other graphical glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.1,31293,68
+1t8uzw,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/1t8uzw/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.49,31293,55
+3b758w,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/3b758w/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The video shows a character climbing stairs, which appears to be a normal action within the game. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.61,31293,68
+5xubxv,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/5xubxv/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.6,31293,43
+8qd9j1,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/8qd9j1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The character Placide is being defeated by the player using a melee attack, which is a normal combat sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.72,31293,65
+97k0of,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/97k0of/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no characters frozen in poses, mid-air, or showing signs of clipping or distortion."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.92,31293,68
+b178tg,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/b178tg/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video depicts a character getting out of a vehicle and walking on a sidewalk. There are no signs of clipping, floating, or any other abnormal behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.41,31293,73
+bjj3f5,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/bjj3f5/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The sequence appears to be a normal combat scenario within the game, with no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.43,31293,68
+c13fu7,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/c13fu7/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a typical gameplay scenario where the player is using a camera system to view different areas of a facility. There are no signs of characters frozen in poses, floating, or interacting with invisible objects."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.78,31293,83
+enwqnm,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/enwqnm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video depicts a car driving through an urban environment with no signs of clipping, floating, or other anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.3,28897,64
+ka7yth,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/ka7yth/video.mp4,TRUE,TRUE,The car clips through a fence,The car drives over the air,"```json
+{
+  ""reasoning"": ""No obvious glitches are detected in the video. The character is moving smoothly and the environment appears consistent with expected gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.13,31293,52
+kae98l,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kae98l/video.mp4,TRUE,TRUE,A car clips through multiple containers,The car drives inside the wall of the shipping container,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and there are no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.36,31293,69
+kbqzb0,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kbqzb0/video.mp4,TRUE,TRUE,The car drives beneath the other car,The player's car becomes entangled with the other car,"```json
+{
+  ""reasoning"": ""I observed a car driving on a road, which appears to be a normal gameplay scenario. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.21,31293,67
+kbwq31,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kbwq31/video.mp4,TRUE,TRUE,A person pulls out an invisible sword,The player is holding up their empty hands,"```json
+{
+  ""reasoning"": ""The video shows a character in a combat situation with another character. The character is shooting at the enemy, and the enemy is taking damage. There are no signs of glitches such as clipping, floating, or incorrect animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,4.26,31293,73
+kcd6h0,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kcd6h0/video.mp4,TRUE,TRUE,The car is launched high up into the sky,The car is sent flying upwards into the sky,"```json
+{
+  ""reasoning"": ""I observed the car driving on a road, which appears to be a normal gameplay scenario. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.89,31293,67
+kcrjei,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kcrjei/video.mp4,TRUE,TRUE,The person on the wheelchair stands up and clips through the wheelchair,The man stands up inside the wheelchair,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any character frozen in a T-pose, stuck in an incorrect animation state, floating, walking on water, clipping through solid geometry, missing or distorted body parts, overpowered ragdolls, characters occupying the same space, projectiles frozen in air, vehicles floating, unstable buoyancy, vehicle animation mismatch, characters on vehicles without support, invisible objects being interacted with, non-reactive environment, objects vibrating, camera inside geometry, severe lighting or shadow glitches, inconsistent UI state, invisible walls, falling through floors, vehicles passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead characters acting alive, ghost UI elements, incorrect transparency, broken water interaction, weapon misalignment, or defying gravity. The video appears to show normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.17,18293,197
+kcsbg6,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kcsbg6/video.mp4,TRUE,TRUE,The car clips through the debris which raises the front of the car up,The front of the car flies up into the air,"```json
+{
+  ""reasoning"": ""The video shows a car flipping over and landing upside down. The car appears to be stuck in a T-pose or default rig pose, which is a common glitch pattern in Cyberpunk 2077."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A car flips over and lands upside down, remaining in a T-pose or default rig pose.""
+}
+```",TRUE,"A car flips over and lands upside down, remaining in a T-pose or default rig pose.",TRUE,FALSE,2.39,31293,92
+kd3oxq,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kd3oxq/video.mp4,TRUE,TRUE,The other car is pushed forward at a high speed resulting in a crash,The sports car is sent flying upwards and forwards in the air,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The vehicles appear to be moving smoothly along the road, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.39,31293,68
+kds5k9,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kds5k9/video.mp4,TRUE,TRUE,The game freezes with the explosion scene in the background,"The car explodes, killing the man","```json
+{
+  ""reasoning"": ""No glitch detected. The explosion appears to be a normal in-game event."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,0.8,7568,44
+kevacz,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kevacz/video.mp4.mp4,TRUE,TRUE,A woman clips through the door of the container,A woman walks through the closed gate of the shipping container,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose that does not match their current movement or context. There was no character suspended in mid-air, walking on water, or clipping through solid geometry. The character's movements appeared consistent with the game's physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.63,31293,105
+kg9ida,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kg9ida/video.mp4,TRUE,TRUE,The person moves forward very quickly,The player slides forwards on the guardrail,"```json
+{
+  ""reasoning"": ""The video shows the player navigating through a menu system, which is a standard part of gameplay. There are no signs of glitches such as characters in unusual poses, floating, or clipping through objects. The environment and menu display appear consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.99,31293,79
+kms1wj,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kms1wj/video.mp4,TRUE,TRUE,The woman stands up and catches fire,The civilian teleports to a kneeling position,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence. The character's movements and interactions appear consistent with expected gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.26,31293,56
+kr5egn,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kr5egn/video.mp4,TRUE,TRUE,A car beneath the oil tank clips through the ground,A car is pinned under a tank with the car's bottom half underground,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.36,31293,43
+kvver3,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/kvver3/video.mp4,TRUE,TRUE,The car drives through the fence and is damaged,The car drives through a metal fence in front of the player,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a car approaching a gate, which then opens automatically. This is a normal gameplay mechanic."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.54,31293,63
+mh1lb7,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/mh1lb7/video.mp4.mp4,TRUE,TRUE,A car slides on the ground and is launched into the sky from a distance,The car bounces off of the boulder,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The motorcycle and rider appear to be moving smoothly along the terrain, and there are no signs of clipping, floating, or other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.73,31293,71
+mkmgfk,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/mkmgfk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.68,31293,55
+mkpoc2,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/mkpoc2/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any glitches in the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.89,31293,51
+n1q2kj,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/n1q2kj/video.mp4,TRUE,TRUE,The motorcycle stops in mid-air,The player on the motorbike stops moving mid-air,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The character is riding a motorcycle through a pile of debris, which appears to be a normal gameplay scenario."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.54,31293,63
+nnlere,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/nnlere/video.mp4,TRUE,TRUE,The other person disappears,The enemy disappears,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no characters frozen in poses, mid-air, or showing signs of clipping or distortion."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.41,26693,68
+oqme57,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/oqme57/video.mp4,TRUE,TRUE,A box clips into a locker case and they rotate on the ground,A shelf is rotating on top of other objects on the ground,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was seen walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,4.41,31293,277
+p6xm78,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/p6xm78/video.mp4,TRUE,TRUE,The person gets back onto the motorcycle while it is positioned upside down,The player mounts the motorbike which is upside down on the road,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a motorcycle crash and subsequent fall, which is typical gameplay behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.38,31293,58
+sm2uav,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/sm2uav/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.48,31293,43
+uadfdx,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/uadfdx/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""No obvious glitches are detected in the video. The character is standing on a solid surface, and there are no signs of clipping, floating, or other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.06,31293,62
+uav1o9,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/uav1o9/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The car is driving smoothly along the road, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.66,31293,66
+ub1wgk,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/ub1wgk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The car appears to be driving normally on the road, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.76,28897,68
+ufm28q,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/ufm28q/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.8,31293,67
+wqnmi4,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/wqnmi4/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a normal conversation between two characters, one getting into a car, and then driving off. There are no signs of clipping, floating, or any other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.13,31293,77
+yjrpyf,Cyberpunk 2077,Games_json/Cyberpunk_2077_Dataset/yjrpyf/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The video shows a character lying on the ground, which appears to be a standard combat scenario. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch. The character's position and the environment seem consistent with typical gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.89,31293,81
+1t8uzw,Fallout,Games_json/Fallout_4/1t8uzw/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters appear to be moving and interacting naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.15,31287,57
+2uav1o,Fallout,Games_json/Fallout_4/2uav1o/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video depicts normal gameplay with no signs of glitches such as characters in T-poses, floating, or clipping through objects."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.63,31287,67
+3ve0k3,Fallout 4,Games_json/Fallout_4/3ve0k3/video.mp4,TRUE,TRUE,The woman appreciates the player for finding her cat while the cat is standing on her shoulder all the time,The cat remains standing on the woman,"```json
+{
+  ""reasoning"": ""The video shows a character with a glowing outline, which could indicate a glitch where the character is not fully rendered correctly. However, the character appears to be standing on the ground and interacting with the environment, suggesting that the issue might be related to the character's rendering rather than a physics or collision glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""A character with a glowing outline is standing on the ground and interacting with the environment.""
+}
+```",FALSE,A character with a glowing outline is standing on the ground and interacting with the environment.,TRUE,FALSE,2.53,31289,107
+4kvw58,Fallout 4,Games_json/Fallout_4/4kvw58/video.mp4,TRUE,TRUE,The person attacks the other person using an axe while floating and moving mid-air,The player and the raider slide through the air,"```json
+{
+  ""reasoning"": ""No obvious glitches were observed in the video. The character is moving and interacting with the environment as expected, with no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.26,31289,63
+4z19qk,Fallout,Games_json/Fallout_4/4z19qk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.17,31287,55
+777ld5,Fallout,Games_json/Fallout_4/777ld5/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.59,31287,55
+8dcql9,Fallout 4,Games_json/Fallout_4/8dcql9/video.mp4,TRUE,TRUE,The graphic on the background is corrupted and only some parts are properly rendered,The player is in the wall between two rooms,"```json
+{
+  ""reasoning"": ""I considered checklist items related to character animations and interactions. The deathclaw appears to be in a ragdoll state, which is expected during combat. However, the character's head is not visible, which could be due to the ragdoll effect or a graphical issue."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.67,21705,83
+8j8e7n,Fallout 4,Games_json/Fallout_4/8j8e7n/video.mp4,TRUE,TRUE,Another person's body clips through the ground and slowly emerges,The corpse of a feral ghoul reaver is stuck upside down in the ground,"```json
+{
+  ""reasoning"": ""I considered checklist items related to ragdolls and character animations. The feral ghoul appears to be in a ragdoll state, which is expected after being defeated. However, the character's limbs are not visibly deformed or stretched, and the ragdoll animation seems to be playing correctly."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.95,19309,88
+9o0jjr,Fallout 4,Games_json/Fallout_4/9o0jjr/video.mp4,TRUE,TRUE,A box is rotating on the floor and spinning,The wooden box start rolling across the flat ground,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was seen walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,4.36,31289,277
+9up92e,Fallout 4,Games_json/Fallout_4/9up92e/video.mp4,TRUE,TRUE,Another person's body clips through a fence door,The corpse moves with the gate as it closes,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was seen walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,4.05,30091,277
+b6ipyu,Fallout 4,Games_json/Fallout_4/b6ipyu/video.mp4,TRUE,TRUE,The other person's body is launched into the sky and disappears,The assaultron is sent flying high up into the air,"```json
+{
+  ""reasoning"": ""I observed the character Duke falling from the sky and landing on the ground. This is a typical action sequence where a character is defeated and falls to the ground. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.17,31289,81
+bmkc24,Fallout 4,Games_json/Fallout_4/bmkc24/video.mp4,TRUE,TRUE,The other person's body clips through the ground with only his head above the ground,A man is partially inside the ground such that only his head is showing,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the glitch checklist during this sequence. The video appears to show normal gameplay with no signs of character clipping, floating, or other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.53,31289,64
+ce0dbm,Fallout,Games_json/Fallout_4/ce0dbm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.24,31287,43
+cxi5k7,Fallout 4,Games_json/Fallout_4/cxi5k7/video.mp4,TRUE,TRUE,A person's legs start twisting and clip through his body,One of the man's legs begins to rotate in a circle in front of the man,"```json
+{
+  ""reasoning"": ""The dog appears to be floating above the ground, which is not typical behavior for a dog in a video game setting. This suggests a glitch where the dog is not properly grounded."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The dog is floating above the ground, defying the expected physics of the game.""
+}
+```",TRUE,"The dog is floating above the ground, defying the expected physics of the game.",TRUE,FALSE,2.5,31289,82
+cyurp4,Fallout 4,Games_json/Fallout_4/cyurp4/video.mp4,TRUE,TRUE,The deathclaw is pushed into the sky by the person,The enemy flies into the air,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and all characters and objects behave as expected."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.47,31289,59
+h3pku3,Fallout,Games_json/Fallout_4/h3pku3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The environment appears to be functioning as intended, with no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.48,31287,64
+nmi4z1,Fallout,Games_json/Fallout_4/nmi4z1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements and interactions appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.77,31287,55
+ot1z0l,Fallout 4,Games_json/Fallout_4/ot1z0l/video.mp4,TRUE,TRUE,The person fires again yet a bullet is blocked by a flying piece of a crate as a result of the explosion,The player begins to reload their gun,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements and interactions appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.22,31289,55
+qm9e7c,Fallout,Games_json/Fallout_4/qm9e7c/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.6,31287,55
+qqeidk,Fallout,Games_json/Fallout_4/qqeidk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The video shows a character being attacked by another character, resulting in a critical hit. The attack causes the target to be engulfed in flames, indicating a successful critical hit. There are no signs of clipping, floating, or other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.91,31287,78
+sm2uav,Fallout,Games_json/Fallout_4/sm2uav/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.29,31287,55
+w9qqei,Fallout,Games_json/Fallout_4/w9qqei/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a player shooting at a machine gun turret, which is a common gameplay mechanic. There are no signs of characters frozen in poses, floating, or clipping through objects. The environment appears consistent with expected physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.61,28891,88
+2lqd50,Fallout 76,Games_json/Fallout_76/2lqd50/video.mp4,TRUE,TRUE,"While the player looks around, a body floats in the air, drifting from right to left.","A corpse moves horizontally mid-air without falling, indicating broken gravity or physics behavior.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no signs of characters freezing in poses, floating, or clipping through objects."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.23,31290,66
+2nl0x1,Fallout 76,Games_json/Fallout_76/2nl0x1/video.mp4,TRUE,TRUE,"The main character’s body is invisible, but its shadow is still visible.","The player model is missing, yet the shadow remains rendered, showing a visual inconsistency.","```json
+{
+  ""reasoning"": ""The video shows a character being attacked by a Feral Ghoul, which results in the Ghoul being defeated and the player gaining experience points. There are no signs of glitches such as clipping, floating, or incorrect animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.75,31290,74
+3b758w,Fallout 76,Games_json/Fallout_76/3b758w/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.8,31290,55
+3isp10,Fallout 76,Games_json/Fallout_76/3isp10/video.mp4,TRUE,TRUE,A dead body continues moving and twitching on the ground.,"After death, the corpse behaves actively, shaking or “dancing” instead of staying still.","```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was seen walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,4.24,31290,277
+5q17vq,Fallout 76,Games_json/Fallout_76/5q17vq/video.mp4,TRUE,TRUE,"An NPC’s body appears incomplete and moves erratically, rapidly shifting positions.",The character model is partially broken and teleports or jitters between locations unnaturally.,"```json
+{
+  ""reasoning"": ""The robot character appears to be moving and interacting with the environment in a way that is consistent with normal gameplay. There are no signs of clipping, floating, or other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.24,31290,70
+63ebsl,Fallout 76,Games_json/Fallout_76/63ebsl/video.mp4,TRUE,TRUE,An NPC appears to walk but only slightly shifts position while mostly staying in place.,"The walking animation plays, but the character barely moves forward, creating a sliding or stuck effect.","```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was seen walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,4.62,31290,277
+6pzpom,Fallout 76,Games_json/Fallout_76/6pzpom/video.mp4,TRUE,TRUE,A trash can rolls and moves on the ground without any visible force.,"The object moves on its own as if pushed by an invisible force, suggesting unstable physics simulation.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is moving around the environment, interacting with objects, and the game appears to be functioning normally."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.86,31290,64
+8qd9j1,Fallout 76,Games_json/Fallout_76/8qd9j1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and there are no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.55,31290,69
+8uzwot,Fallout 76,Games_json/Fallout_76/8uzwot/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no signs of characters freezing, clipping, or exhibiting unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.63,31290,64
+90hfw5,Fallout 76,Games_json/Fallout_76/90hfw5/video.mp4,TRUE,TRUE,"The player passes through a wall and falls below the world, viewing the environment from underneath.","Collision fails, allowing the character to clip through geometry and fall outside the map boundaries.","```json
+{
+  ""reasoning"": ""The player is moving through a structure that appears to be a bridge or elevated walkway. The environment seems to be a mix of solid and transparent surfaces, which could indicate a glitch where the game is not rendering the correct geometry."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The player is moving through a structure that appears to be a bridge or elevated walkway. The environment seems to be a mix of solid and transparent surfaces, which could indicate a glitch where the game is not rendering the correct geometry.""
+}
+```",TRUE,"The player is moving through a structure that appears to be a bridge or elevated walkway. The environment seems to be a mix of solid and transparent surfaces, which could indicate a glitch where the game is not rendering the correct geometry.",TRUE,TRUE,1.29,8540,121
+9wh0a0,Fallout 76,Games_json/Fallout_76/9wh0a0/video.mp4,TRUE,TRUE,"An NPC moves extremely fast, appearing to teleport between positions.","The character rapidly changes location in jumps instead of moving smoothly, indicating teleport-like motion.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.05,31290,43
+agjh7m,Fallout 76,Games_json/Fallout_76/agjh7m/video.mp4,TRUE,TRUE,"An NPC is killed, teleports upstairs, walks in place, then collapses while floating above the ground.","After death, the NPC relocates unnaturally and continues animating mid-air before falling incorrectly.","```json
+{
+  ""reasoning"": ""The video shows a creature that appears to be a zombie or similar entity attacking the player. The creature's movements seem exaggerated and unnatural, which could indicate a glitch. However, the creature's actions are consistent with typical enemy behavior in the game, so it's difficult to definitively say if this is a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""A zombie-like creature attacks the player, moving in an exaggerated manner.""
+}
+```",FALSE,"A zombie-like creature attacks the player, moving in an exaggerated manner.",TRUE,FALSE,3.18,31290,106
+b5uwox,Fallout 76,Games_json/Fallout_76/b5uwox/video.mp4,TRUE,TRUE,"After dying, a character’s body is launched into the air and lands on a roof.","The corpse is propelled upward with excessive force, landing in an unrealistic elevated position.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence. The character appears to be moving normally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.72,27696,55
+bjj3f5,Fallout 76,Games_json/Fallout_76/bjj3f5/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was seen walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.56,28894,277
+bjxyq5,Fallout 76,Games_json/Fallout_76/bjxyq5/video.mp4,TRUE,TRUE,"While talking, an NPC suddenly disappears.","The character vanishes mid-conversation without transition, indicating a rendering or state glitch.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the glitch checklist items in these frames. The character appears to be standing on solid ground, and there are no signs of clipping, floating, or other abnormal behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.89,31290,69
+bmmgsm,Fallout 76,Games_json/Fallout_76/bmmgsm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows typical gameplay actions such as navigating through a room, interacting with objects, and using a computer terminal. There are no signs of characters frozen in poses, floating, or clipping through objects."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.47,31290,82
+c1sjd3,Fallout 76,Games_json/Fallout_76/c1sjd3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a character interacting with a stove, which is a normal gameplay action. There are no signs of clipping, floating, or any other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.15,30092,73
+eit54i,Fallout 76,Games_json/Fallout_76/eit54i/video.mp4,TRUE,TRUE,An NPC gets shot but does not die and remains standing.,"Despite taking damage, the character shows no death response and stays upright unnaturally.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements and interactions appear consistent with expected gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.25,31290,56
+eqkar3,Fallout 76,Games_json/Fallout_76/eqkar3/video.mp4,TRUE,TRUE,"After being shot, an NPC follows the player, then stops and moves in place before getting stuck.",The character enters a looped movement animation without changing position and becomes permanently stuck.,"```json
+{
+  ""reasoning"": ""The video shows a character being shot and falling to the ground, which is a normal gameplay mechanic. There are no signs of clipping, floating, or other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.71,31290,68
+flwk28,Fallout 76,Games_json/Fallout_76/flwk28/video.mp4,TRUE,TRUE,An NPC playing guitar while seated has their upper body shift position while the legs and guitar remain fixed.,"The character’s body parts become misaligned, with the torso moving separately from the legs and instrument.","```json
+{
+  ""reasoning"": ""The character is playing the banjo and moving around the room, which appears to be normal gameplay. There are no signs of clipping, floating, or any other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.63,31290,64
+h3pku3,Fallout 76,Games_json/Fallout_76/h3pku3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The robot character appears to be in a T-pose, which is a common glitch where characters freeze in a default pose. This is evident because the robot is not moving and its limbs are in a fixed position, which is unusual for a character in gameplay."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A robot character is frozen in a T-pose, indicating a glitch where the character is stuck in a default rig pose.""
+}
+```",TRUE,"A robot character is frozen in a T-pose, indicating a glitch where the character is stuck in a default rig pose.",TRUE,FALSE,3.1,31290,106
+muyzf1,Fallout 76,Games_json/Fallout_76/muyzf1/video.mp4,TRUE,TRUE,An enemy falls to the ground but slides around while attacking without any walking movement.,"The NPC remains in a fallen pose yet moves across the ground, attacking the player without proper animation.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements and interactions appear consistent with expected gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.85,31290,56
+nl777l,Fallout 76,Games_json/Fallout_76/nl777l/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and there are no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.9,31290,69
+pd1o0v,Fallout 76,Games_json/Fallout_76/pd1o0v/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a typical exploration sequence in the game where the player interacts with objects and navigates through the environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.18,31290,65
+qqeidk,Fallout 76,Games_json/Fallout_76/qqeidk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The player is engaging in combat with a Wendigo Spawn. The enemy appears to be moving and reacting to the player's actions, indicating normal gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.73,31290,60
+r57yic,Fallout 76,Games_json/Fallout_76/r57yic/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.87,31290,55
+ub1wgk,Fallout 76,Games_json/Fallout_76/ub1wgk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is engaged in combat with the Legendary Noxious Sheepsquatch, and the animations and movements appear consistent with expected gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.34,31290,71
+v1o9c9,Fallout 76,Games_json/Fallout_76/v1o9c9/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I observed a character in a death or ragdoll state continuing to aim, talk, or react as if alive. This is indicative of a glitch where the character is not properly transitioning to a dead state."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A character in a death or ragdoll state continues to aim and move, which is not typical behavior for a deceased character.""
+}
+```",TRUE,"A character in a death or ragdoll state continues to aim and move, which is not typical behavior for a deceased character.",TRUE,FALSE,2.53,28894,95
+vrgj6c,Fallout 76,Games_json/Fallout_76/vrgj6c/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character and environment appear to function as expected within the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.68,31290,56
+yjrpyf,Fallout 76,Games_json/Fallout_76/yjrpyf/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The player is shooting at a zombie, which is falling to the ground and then getting up again. This is a normal action sequence in the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.66,31290,59
+0dbmmg,Far Cry,Games_json/Far_Cry_5_Dataset/0dbmmg/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.93,31287,55
+19qkov,Far Cry,Games_json/Far_Cry_5_Dataset/19qkov/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters appear to be in a conversation, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.48,31287,66
+87lvv3,Far Cry 5,Games_json/Far_Cry_5_Dataset/87lvv3/video.mp4,TRUE,TRUE,The corpse is moving up and down on the ground,The corpse is holding one of its arms up in the air,"```json
+{
+  ""reasoning"": ""The character appears to be stuck in a T-pose, which is a common glitch where characters freeze in a default pose. This is evident as the character remains in a static position despite the player's actions."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A character is frozen in a T-pose, indicating a glitch where the character is stuck in a default rig pose.""
+}
+```",TRUE,"A character is frozen in a T-pose, indicating a glitch where the character is stuck in a default rig pose.",TRUE,FALSE,3.54,31289,95
+88raxm,Far Cry 5,Games_json/Far_Cry_5_Dataset/88raxm/video.mp4,TRUE,TRUE,A person approaches a pickup truck which shakes and floats in the air,A truck is bouncing up and down in place on the ground,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a player interacting with a vehicle, which appears to be functioning normally within the game's physics and mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.29,31289,66
+88upqe,Far Cry 5,Games_json/Far_Cry_5_Dataset/88upqe/video.mp4,TRUE,TRUE,The plane crashes into a tree and starts rotating in the air,The plane takes off flying,"{
+  ""reasoning"": ""I considered MR-011 (Vehicle floating or flying) because the airplane appears to be suspended in mid-air without any visible support, which is unusual for a grounded vehicle."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The airplane is floating above the ground without any visible support, defying the expected physics of the game.""
+}",TRUE,"The airplane is floating above the ground without any visible support, defying the expected physics of the game.",TRUE,FALSE,0.69,3505,82
+8qd9j1,Far Cry,Games_json/Far_Cry_5_Dataset/8qd7j1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The scene appears to be a normal exploration sequence in the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.36,31287,56
+8qd9j1,Far Cry,Games_json/Far_Cry_5_Dataset/8qd9j1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and there are no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.76,31287,69
+8uzwot,Far Cry,Games_json/Far_Cry_5_Dataset/8uzwot/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.73,31287,55
+bjj3f5,Far Cry,Games_json/Far_Cry_5_Dataset/bjj3f5/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.57,31287,55
+bmmgsm,Far Cry,Games_json/Far_Cry_5_Dataset/bmmgsm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.83,31287,55
+bs1kqo,Far Cry 5,Games_json/Far_Cry_5_Dataset/bs1kqo/video.mp4,TRUE,TRUE,The truck is teleported onto another car,The lorry teleports forwards,"```json
+{
+  ""reasoning"": ""I considered checklist items related to vehicle interactions and physics. The truck appears to be driving normally, and there are no signs of clipping, floating, or unrealistic movements. The player is able to exit the vehicle smoothly, indicating no glitch in vehicle handling."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.46,14139,79
+ddqn81,Far Cry 5,Games_json/Far_Cry_5_Dataset/ddqn81/video.mp4,TRUE,TRUE,A person clips under the helicopter and slides onto the ground,The man rolls along the ground towards a wall,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a player interacting with a vehicle, which appears to be functioning correctly within the game's physics and mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.51,21705,66
+e54tyz,Far Cry 5,Games_json/Far_Cry_5_Dataset/e54tyz/video.mp4,TRUE,TRUE,The other person's body clips through the rear door of the van,The corpse goes inside the closed back doors of the van,"```json
+{
+  ""reasoning"": ""I observed the van flipping over and the character being launched into the air, which is an unusual and exaggerated reaction compared to typical physics expected in the game. This suggests a glitch where the vehicle and character interactions are not behaving as intended."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The van flips over unexpectedly and launches the character into the air, defying normal physics and causing the character to be airborne for an extended period.""
+}
+```",TRUE,"The van flips over unexpectedly and launches the character into the air, defying normal physics and causing the character to be airborne for an extended period.",TRUE,FALSE,1.98,26497,105
+edwq7m,Far Cry 5,Games_json/Far_Cry_5_Dataset/edwq7m/video.mp4,TRUE,TRUE,The person is pushed away from the pickup truck,The man flies into the air away from the truck,"```json
+{
+  ""reasoning"": ""I considered MR-007 (Overpowered ragdoll or launch) because the character appears to be launched into the water from the dock, which seems unrealistic given the distance and angle."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The character is launched into the water from the dock, appearing to be propelled by an overpowered force, which is not typical in normal gameplay.""
+}
+```",TRUE,"The character is launched into the water from the dock, appearing to be propelled by an overpowered force, which is not typical in normal gameplay.",TRUE,FALSE,1.77,21705,96
+ewfjh1,Far Cry 5,Games_json/Far_Cry_5_Dataset/ewfjh1/video.mp4,TRUE,TRUE,A truck floats and shakes in the air,The truck is floating above the ground,"```json
+{
+  ""reasoning"": ""The video shows a truck flipping over and a car being launched into the air, which is typical gameplay physics in Far Cry 5. There are no signs of clipping, floating, or other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.24,31289,75
+f0gztz,Far Cry 5,Games_json/Far_Cry_5_Dataset/f0gztz/video.mp4,TRUE,TRUE,Some of the cow's feces is left floating in the air,The cow flies sideways into the air,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The cow and the character appear to move naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.71,26497,56
+gucv9x,Far Cry 5,Games_json/Far_Cry_5_Dataset/gucv9x/video.mp4,TRUE,TRUE,The other person walks through some fences with his leg been twisted,The enemy flies into the sky,"```json
+{
+  ""reasoning"": ""I observed a character being launched into the sky after being shot, which is an overpowered ragdoll effect. This is a clear indication of a glitch where the character is not behaving according to expected physics."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A character is launched into the sky after being shot, indicating an overpowered ragdoll effect.""
+}
+```",TRUE,"A character is launched into the sky after being shot, indicating an overpowered ragdoll effect.",TRUE,TRUE,2.8,31289,89
+iwnb4h,Far Cry 5,Games_json/Far_Cry_5_Dataset/iwnb4h/video.mp4,TRUE,TRUE,The truck is floating in the air and appears to be slowly turning and spinning,A truck is floating around in the sky,"```json
+{
+  ""reasoning"": ""I observed a vehicle being launched into the air, which is a common physics glitch in games where vehicles are propelled unexpectedly high. This is not a typical behavior for a vehicle in the game world."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A vehicle is launched into the air, defying normal physics and gravity, and remains suspended in mid-air.""
+}
+```",TRUE,"A vehicle is launched into the air, defying normal physics and gravity, and remains suspended in mid-air.",TRUE,TRUE,2.46,31289,90
+mkpoc2,Far Cry,Games_json/Far_Cry_5_Dataset/mkpoc2/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The helicopter appears to be flying smoothly over the landscape, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.41,31287,68
+mt4twx,Far Cry 5,Games_json/Far_Cry_5_Dataset/mt4twx/video.mp4,TRUE,TRUE,The person is launched high up into the air,The player flies directly up into the sky,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.18,31289,43
+qqeidk,Far Cry,Games_json/Far_Cry_5_Dataset/qqeidk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items in these frames. The character appears to be standing still and speaking, which is typical dialogue interaction in the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.5,31287,62
+sm2uav,Far Cry,Games_json/Far_Cry_5_Dataset/sm2uav/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.32,31287,55
+wqnmi4,Far Cry,Games_json/Far_Cry_5_Dataset/wqnmi4/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character interactions and movements appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.86,31287,54
+yjrpyf,Far Cry,Games_json/Far_Cry_5_Dataset/yjrpyf/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.82,31287,55
+2s5xon,Grand Theft Auto V,Games_json/GTAV_Dataset/2s5xon/video.mp4.mp4,TRUE,TRUE,The plane hits the cord and lost its right wing,The plane breaks and falls from the sky,"```json
+{
+  ""reasoning"": ""The player is skydiving over a cityscape with a parachute. The character appears to be in control and moving smoothly, indicating normal gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.39,31289,59
+3b758w,GTA V,Games_json/GTAV_Dataset/3b758w/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.65,31288,55
+3qm9e7,GTA V,Games_json/GTAV_Dataset/3qm9e7/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters appear to be moving and reacting as expected within the game's physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.25,31288,61
+5ob8df,Grand Theft Auto V,Games_json/GTAV_Dataset/5ob8df/video.mp4,TRUE,TRUE,Another vehicle spawns above the car and they crash,The car suddenly stops and crumples,"```json
+{
+  ""reasoning"": ""The car is shown flipping over and coming to rest on its side, which is a typical physics-based crash outcome. There are no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.18,10489,66
+6gx6yf,Grand Theft Auto V,Games_json/GTAV_Dataset/6gx6yf/video.mp4.mp4,TRUE,TRUE,The person attempts to jump but cannot do so resulting in him stumbling forward as he goes,The player's limbs twitch back and forth as the player takes a step,"```json
+{
+  ""reasoning"": ""The player is walking on a wet road, which is a normal gameplay scenario. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.8,30139,65
+8nyvtq,Grand Theft Auto V,Games_json/GTAV_Dataset/8nyvtq/video.mp4.mp4,TRUE,TRUE,The sign on the roof of the van hits the ceiling of the building and falls off,A new sign appears on top of the taco truck,"```json
+{
+  ""reasoning"": ""The video shows a character running through a parking garage with signs and debris scattered around. The character appears to be moving normally, and there are no signs of clipping, floating, or other visual anomalies. The environment seems to be functioning correctly."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.46,31289,77
+8qd9j1,GTA V,Games_json/GTAV_Dataset/8qd9j1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The police car appears to be driving normally on the road."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.24,31288,55
+8uzwot,GTA V,Games_json/GTAV_Dataset/8uzwot/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The video shows a character being hit by a car and then falling to the ground. The character's body is shown in a realistic manner, with no signs of clipping or distortion. The character's death animation is also consistent with typical gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.86,31288,78
+9qqeid,GTA V,Games_json/GTAV_Dataset/9qqeid/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.47,31288,67
+bao03t,Grand Theft Auto V,Games_json/GTAV_Dataset/bao03t/video.mp4,TRUE,TRUE,The bus is launched into the sky at a high speed,The bus flies through the air,"```json
+{
+  ""reasoning"": ""The bus is seen flying through the air, which is not typical behavior for a vehicle in Grand Theft Auto V. This suggests a glitch where the physics engine is malfunctioning, causing the bus to defy gravity and move in an unrealistic manner."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A bus is seen flying through the air, defying the expected physics of the game. The bus appears to be suspended in mid-air, moving in an unrealistic manner.""
+}
+```",TRUE,"A bus is seen flying through the air, defying the expected physics of the game. The bus appears to be suspended in mid-air, moving in an unrealistic manner.",TRUE,TRUE,2.41,31289,111
+ce0dbm,GTA V,Games_json/GTAV_Dataset/ce0dbm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is moving normally, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.34,31288,63
+dbmmgs,GTA V,Games_json/GTAV_Dataset/dbmmgs/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and vehicles appear to be behaving as expected within the game's physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.94,31288,61
+ddsemc,Grand Theft Auto V,Games_json/GTAV_Dataset/ddsemc/video.mp4,TRUE,TRUE,The person is teleported to the driver seat with the driver leaving the vehicle,The player walks next to a stationary taxi cab on the road,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is walking on the road, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.41,31289,65
+f3avfr,GTA V,Games_json/GTAV_Dataset/f3avfr/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The player is interacting with a car in a typical manner, opening the door and getting in. There are no signs of glitches such as clipping through objects, floating, or unusual animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.19,31288,66
+fimwps,Grand Theft Auto V,Games_json/GTAV_Dataset/fimwps/video.mp4,TRUE,TRUE,The game is resumed and the semi trailer has vanished,The truck and trailer disappear and the man floats in the air,"```json
+{
+  ""reasoning"": ""The player is running across a road and then falls off the edge, which is a typical action sequence in the game. There are no signs of glitches such as characters freezing, floating, or clipping through objects."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.57,31289,71
+fm28qd,GTA V,Games_json/GTAV_Dataset/fm28qd/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The video shows a sniper scope view with a target in the distance. The target appears to be a vehicle, which is moving towards the player. There are no visible glitches such as characters frozen in poses, floating, or clipping through objects. The vehicle is moving as expected, and the scope view remains stable."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.41,31288,91
+g1ze6w,GTA V,Games_json/GTAV_Dataset/g1ze6w/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I observed the car driving on a road and did not notice any violations of the checklist items. The car appears to be moving along the road as expected."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.18,31288,60
+ga1h59,Grand Theft Auto V,Games_json/GTAV_Dataset/ga1h59/video.mp4.mp4,TRUE,TRUE,The person appears to be walking but does not actually move as if he hits a wall,The player walks in place in the open doorway,"```json
+{
+  ""reasoning"": ""The player is navigating through a room, and the character appears to be moving naturally within the environment. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.17,31289,69
+hebqxt,Grand Theft Auto V,Games_json/GTAV_Dataset/hebqxt/video.mp4,TRUE,TRUE,The motorcycle moves upward along the cliff at an almost vertical angle with the person on it,The man on the motorbike drives vertically up the cliff,"```json
+{
+  ""reasoning"": ""The video shows a character climbing a rocky hill. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch. The character appears to be moving naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.24,31289,71
+hsggww,Grand Theft Auto V,Games_json/GTAV_Dataset/hsggww/video.mp4,TRUE,TRUE,The person clips under the motorcycle and is killed instantly,The player dies,"```json
+{
+  ""reasoning"": ""The video shows a character performing a stunt on a motorcycle, which results in the character being thrown off the bike and landing on the ground. The character then gets up and walks away, indicating that the character is not dead and the game is functioning normally."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.44,31289,80
+i1u5ks,Grand Theft Auto V,Games_json/GTAV_Dataset/i1u5ks/video.mp4,TRUE,TRUE,The person is teleported onto the bicycle,The player instantly mounts the bicycle that is sliding,"```json
+{
+  ""reasoning"": ""The player is riding a bike down a staircase, which appears to be a normal gameplay action. There are no signs of clipping, floating, or any other unusual behavior that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.6,31289,68
+jngg00,Grand Theft Auto V,Games_json/GTAV_Dataset/jngg00/video.mp4,TRUE,TRUE,The van spins while floating in the air,The van floats in mid-air while rotating,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.41,30091,64
+jz9s24,Grand Theft Auto V,Games_json/GTAV_Dataset/jz9s24/video.mp4,TRUE,TRUE,The helicopter freezes in the air,The helicopter flies in place in the air with stationary rotor blades,"```json
+{
+  ""reasoning"": ""I observed the helicopter hovering above the rooftop, which is a normal gameplay mechanic. There was no indication of clipping, floating, or any other abnormal behavior that would suggest a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.82,31289,65
+ktrxq0,Grand Theft Auto V,Games_json/GTAV_Dataset/ktrxq0/video.mp4,TRUE,TRUE,The person falls onto the roof of a car,A cutscene begins and the man walks towards the camera,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video depicts a normal conversation between characters in a city setting."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.06,27695,55
+ku3qm9,GTA V,Games_json/GTAV_Dataset/ku3qm9/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The player character is seen interacting with a vehicle, which is a normal gameplay action."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.85,31288,60
+kufm28,GTA V,Games_json/GTAV_Dataset/kufm28/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.9,31288,67
+ld53b7,GTA V,Games_json/GTAV_Dataset/ld53b7/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a typical gameplay scenario where a player is using a sniper scope to target enemies. There are no signs of characters frozen in poses, floating, or any other anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.53,31288,78
+m0k4uc,GTA V,Games_json/GTAV_Dataset/m0k4uc/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the glitch checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.86,31288,56
+0k4ucb,Just Cause,Games_json/Just_Cause_3/0k4ucb/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be moving and interacting with the environment as expected, with no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.59,31287,69
+1wc1sj,Just Cause,Games_json/Just_Cause_3/1wc1sj/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters appear to be moving and interacting naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.07,31287,57
+3vbsgb,Just Cause 3,Games_json/Just_Cause_3/3vbsgb/video.mp4,TRUE,TRUE,The dune buggy is launched into the air and catches fire,The dune buggy is sent flying into the air,"```json
+{
+  ""reasoning"": ""I considered checklist items related to vehicle and character physics, such as clipping through solid objects, floating, and unrealistic movement. The video shows a character performing a controlled fall from a high altitude, which is expected in the game. There are no signs of the character or vehicle clipping through solid objects, floating, or exhibiting unrealistic movement."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.45,10489,95
+4l15qz,Just Cause 3,Games_json/Just_Cause_3/4l15qz/video.mp4,TRUE,TRUE,The antenna then starts spinning while the player is hooked on it,The player spins around on the satellite dish,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be moving and interacting with the environment in a manner consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.52,31289,62
+5lvn7e,Just Cause 3,Games_json/Just_Cause_3/5lvn7e/video.mp4,TRUE,TRUE,The motorcycle explodes,The moped explodes violently as it collides with the stone wall,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor any characters locked in a pose that does not match their current movement or context. There was no character suspended in mid-air, no character walking or standing on water, no clipping through solid geometry, no missing or distorted body parts, no overpowered ragdoll or launch, no characters occupying the same space, no projectiles frozen in air, no projectiles passing through targets, no vehicle floating or flying, no unstable vehicle buoyancy, no vehicle animation mismatch, no character on a vehicle without support, no invisible objects being interacted with, no non-reactive environment, no objects vibrating or jittering, no camera inside geometry, no severe lighting or shadow glitch, no UI state inconsistent with the world, no invisible wall or barrier, no falling through floor or map, no vehicle passing through solid objects, no duplicating or multiplying objects, no missing or mismatched sounds, no abrupt teleportation, no dead character acting alive, no ghost UI elements, no incorrect transparency or ghosting, no broken water interaction, no weapon misalignment, and no motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.21,11059,268
+5ydvnz,Just Cause 3,Games_json/Just_Cause_3/5ydvnz/video.mp4,TRUE,TRUE,A helicopter wreckage is on fire and floating in the air,The man takes off in the destroyed helicopter,"```json
+{
+  ""reasoning"": ""The helicopter is shown flying away from the base, which is a normal gameplay action. There are no signs of clipping, floating, or any other abnormal behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.07,10489,61
+8qd9j1,Just Cause,Games_json/Just_Cause_3/8qd9j1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The video shows a character standing on a platform with a weapon in hand. There are no signs of any glitch patterns listed in the checklist. The character appears to be in a normal stance, and the environment looks consistent with the game's physics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.33,31287,78
+8xh12d,Just Cause 3,Games_json/Just_Cause_3/8xh12d/video.mp4,TRUE,TRUE,A fighter jet rotates and clips through the ground,A military jet is stuck halfway into the ground as it rotates tip-over-tail,"```json
+{
+  ""reasoning"": ""The player character is seen lying on the ground, which appears to be a normal state after being knocked down. There are no signs of clipping, floating, or any other abnormal behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.34,27695,66
+9c9tnl,Just Cause,Games_json/Just_Cause_3/9c9tnl/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I observed the vehicle driving through a tunnel-like structure, which appears to be a natural formation rather than a man-made tunnel. The vehicle is moving smoothly along the road, and there are no signs of clipping or distortion. The environment seems consistent with the game's physics and terrain handling."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.44,31287,86
+badmyc,Just Cause 3,Games_json/Just_Cause_3/badmyc/video.mp4,TRUE,TRUE,The SUV explodes and pushes the pickup truck far away,The truck holding the player is sent flying into the air,"```json
+{
+  ""reasoning"": ""The player character is seen falling from a great height, which is typical in Just Cause 3 when the player dies. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.06,31289,73
+ce0dbm,Just Cause,Games_json/Just_Cause_3/ce0dbm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.81,31287,55
+de4mjk,Just Cause 3,Games_json/Just_Cause_3/de4mjk/video.mp4,TRUE,TRUE,The helicopter is pushed downward rapidly while rotating and explodes,The helicopter explodes as it collides with the moped,"```json
+{
+  ""reasoning"": ""The helicopter is shown flying over a cliff edge, which is a common scenario in the game. However, the helicopter appears to be flying at an extremely high speed, which could be considered unusual for normal gameplay. This could potentially be a glitch where the helicopter's speed is not properly regulated."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The helicopter is flying at an unusually high speed over a cliff edge, which is not typical for normal gameplay.""
+}
+```",TRUE,"The helicopter is flying at an unusually high speed over a cliff edge, which is not typical for normal gameplay.",TRUE,FALSE,2.58,31289,109
+enwqnm,Just Cause,Games_json/Just_Cause_3/enwqnm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be moving normally, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.49,31287,65
+g3vn3b,Just Cause 3,Games_json/Just_Cause_3/g3vn3b/video.mp4,TRUE,TRUE,The plane hits the mountainside and rotates,The airplane bounces off of the mountain,"```json
+{
+  ""reasoning"": ""No obvious glitches were observed in the video. The character is flying over a landscape, and the environment appears to be functioning as expected. There are no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.89,31289,70
+i98as3,Just Cause 3,Games_json/Just_Cause_3/i98as3/video.mp4,TRUE,TRUE,The SUV explodes which launches the truck high into the air,The pickup truck flies up the side of the cliff,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no signs of characters freezing in poses, floating, or experiencing other common glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.73,31289,67
+kufm28,Just Cause,Games_json/Just_Cause_3/kufm28/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The helicopter is flying over a cityscape, and there are no signs of clipping, floating, or any other visual anomalies. The helicopter appears to be moving smoothly and realistically within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.48,31287,68
+lmvbjh,Just Cause 3,Games_json/Just_Cause_3/lmvbjh/video.mp4,TRUE,TRUE,Debris is flying in the air around the radio tower,The player falls through the ground,"```json
+{
+  ""reasoning"": ""The player is shooting at enemies with a rocket launcher, causing explosions and debris. The character's movements and actions appear normal, with no signs of clipping, floating, or other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.84,22839,67
+nxg1ze,Just Cause,Games_json/Just_Cause_3/nxg1ze/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items in these frames. The plane appears to be flying over water towards Hantu Island, which is consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.35,31287,63
+sm2uav,Just Cause,Games_json/Just_Cause_3/sm2uav/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The player is moving through the environment, and there are no visible glitches such as characters frozen in poses, floating, or clipping through objects."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.59,31287,57
+ztbwh3,Just Cause,Games_json/Just_Cause_3/ztbwh3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The video shows the player navigating through the gear selection menu, selecting weapons and vehicles. There are no signs of glitches such as characters freezing, floating, or clipping through objects. The game appears to be functioning normally."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.67,31287,72
+1t8uzw,Red Dead Redemption 2,Games_json/RDR2_Dataset/1t8uzw/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The horse and rider appear to be moving along a path without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.04,31290,59
+2hptd5,Red Dead Redemption 2,Games_json/RDR2_Dataset/2hptd5/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.17,31290,55
+2uav1o,Red Dead Redemption 2,Games_json/RDR2_Dataset/2uav1o/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and objects appear to move and interact naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.1,31290,58
+5nw8vr,Red Dead Redemption 2,Games_json/RDR2_Dataset/5nw8vr/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and horses appear to be moving naturally along the path towards the bridge."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.01,31290,59
+9rs60k,Red Dead Redemption 2,Games_json/RDR2_Dataset/9rs60k/video.mp4.mp4,TRUE,TRUE,The stagecoach clips through the door of a barn and is shaking,The front of a carriage is bisected by a barn door,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character and the environment appear to function as expected within the game's physics and animation systems."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.85,31290,62
+9rsobx,Red Dead Redemption 2,Games_json/RDR2_Dataset/9rsobx/video.mp4,TRUE,TRUE,Another horse hits the horse and launches the people on the other horse into the air,The two people's horse flips into the air above the player,"```json
+{
+  ""reasoning"": ""I observed the horse and rider moving along a dirt path, which appears to be a normal gameplay scenario. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch. The environment and characters are behaving as expected."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.92,26498,79
+9wveio,Red Dead Redemption 2,Games_json/RDR2_Dataset/9wveio/video.mp4.mp4,TRUE,TRUE,The person falls off the horse,The player falls off of the horse,"```json
+{
+  ""reasoning"": ""The video shows a character interacting with a horse, which appears to be a normal gameplay action. There are no signs of any glitches such as clipping, floating, or unusual animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.25,31290,65
+a02s0m,Red Dead Redemption 2,Games_json/RDR2_Dataset/a02s0m/video.mp4,TRUE,TRUE,The person is killed instantly upon touching the tree,The player dies,"```json
+{
+  ""reasoning"": ""The video ends with a static screen displaying the word \""DEAD\"" in red letters against a black background. This is likely a game over screen indicating the player's character has died. There are no visible glitches or unusual behaviors in the gameplay footage provided."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.39,31290,80
+a0r66t,Red Dead Redemption 2,Games_json/RDR2_Dataset/a0r66t/video.mp4,TRUE,TRUE,Weapon reel is displayed and the stagecoach is launched into the sky with the rider on it,The horse-drawn carriage flies into the air,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.01,31290,57
+a67rgw,Red Dead Redemption 2,Games_json/RDR2_Dataset/a67rgw/video.mp4,TRUE,TRUE,The horse is scared and the rider is pushed high into the sky from the horseback,The player is bounced into the air,"```json
+{
+  ""reasoning"": ""I considered MR-030 (Broken water interaction). The character appears to be underwater, but the water interaction seems unnatural, as the character is moving at a normal speed and there's no visible buoyancy effect."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The character is underwater, but the water interaction is broken, allowing the character to move at normal speed without any buoyancy effect.""
+}
+```",TRUE,"The character is underwater, but the water interaction is broken, allowing the character to move at normal speed without any buoyancy effect.",TRUE,FALSE,1.26,11944,99
+a6f516,Red Dead Redemption 2,Games_json/RDR2_Dataset/a6f516/video.mp4.mp4,TRUE,TRUE,The person clips through a tent,The player is standing bisected by a small wooden shelter,"```json
+{
+  ""reasoning"": ""The video shows a static image of a mugshot with no visible gameplay or character interactions. There are no signs of glitches such as T-pose, floating, or clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.1,31290,65
+aii9sv,Red Dead Redemption 2,Games_json/RDR2_Dataset/aii9sv/video.mp4,TRUE,TRUE,The person moves backward from the horseback and floats in the air,The player stays floating in place,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and environment appear to function as intended within the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.17,31290,56
+bjj3f5,Red Dead Redemption 2,Games_json/RDR2_Dataset/bjj3f5/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,1.94,31290,55
+cbfxl7,Red Dead Redemption 2,Games_json/RDR2_Dataset/cbfxl7/video.mp4,TRUE,TRUE,There is smoke rising from the person's chest,Smoke is coming out of the player's body,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any character frozen in a T-pose, stuck in an incorrect animation state, floating, walking on water, clipping through solid geometry, missing body parts, overpowered ragdolls, characters occupying the same space, projectiles frozen in air, vehicles floating, unstable buoyancy, mismatched vehicle animations, characters on vehicles without support, invisible objects, non-reactive environments, objects vibrating, camera inside geometry, severe lighting or shadow glitches, inconsistent UI states, invisible walls, falling through floors, vehicles passing through solid objects, duplicating objects, missing or mismatched sounds, abrupt teleportation, dead characters acting alive, ghost UI elements, incorrect transparency, broken water interaction, weapon misalignment, or defying gravity. The character appears to be walking normally, and the environment looks consistent."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.07,16820,196
+ce0dbm,Red Dead Redemption 2,Games_json/RDR2_Dataset/ce0dbm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is walking on a path, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.8,31290,65
+d53b75,Red Dead Redemption 2,Games_json/RDR2_Dataset/d53b75/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and environment appear to be functioning as intended."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.53,34740,54
+d9ftws,Red Dead Redemption 2,Games_json/RDR2_Dataset/d9ftws/video.mp4,TRUE,TRUE,Another horse next to the person is floating in the air with its feet not touching the ground,A horse is hovering above the ground,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The horse and the character appear to be moving naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.67,25300,57
+dmf2y1,Red Dead Redemption 2,Games_json/RDR2_Dataset/dmf2y1/video.mp4,TRUE,TRUE,The horse's fore legs clips through the ground,A horse is in an upright pose with its front legs sticking into the ground,"```json
+{
+  ""reasoning"": ""I observed the horse standing on a rock and then moving to the right side of the screen. The horse's movement appears to be smooth and consistent with typical gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.27,31290,63
+eexbjp,Red Dead Redemption 2,Games_json/RDR2_Dataset/eexbjp/eexbjp_video.mp4,TRUE,TRUE,The person aims a gun at a floating bird in the sky,A bird is not moving in the air,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be standing on a rock by the water, holding a rifle, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.1,31290,74
+f45bgt,Red Dead Redemption 2,Games_json/RDR2_Dataset/f45bgt/video.mp4,TRUE,TRUE,A person floats in the air,A person is floating above the ground with a contorted body,"```json
+{
+  ""reasoning"": ""I observed the character performing actions such as shooting and reloading, which appear to be normal gameplay mechanics. There are no signs of T-pose, wrong animation states, floating, walking on water, clipping, missing body parts, overpowered ragdolls, characters occupying the same space, projectiles frozen in air, or any other listed glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.58,31290,97
+f53blm,Red Dead Redemption 2,Games_json/RDR2_Dataset/f53blm/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence. The video shows a character walking through a forest, interacting with a dead body, and approaching a horse. There are no signs of characters frozen in poses, floating, or clipping through objects."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.28,31290,81
+fm28qd,Red Dead Redemption 2,Games_json/RDR2_Dataset/fm28qd/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The player is navigating through the forest, interacting with the environment, and the game appears to be functioning normally."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.35,31290,65
+g7iqjq,Red Dead Redemption 2,Games_json/RDR2_Dataset/g7iqjq/video.mp4,TRUE,TRUE,The other person is pushed far away by the bullet into the bush,The enemy is sent flying backwards over a dirt road,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air, no character walking or standing on water, smoke, or another clearly non-solid surface, no clipping through solid geometry, no missing or distorted body parts, no overpowered ragdoll or launch, no characters occupying the same space, no projectiles frozen in air, no projectiles passing through targets, no vehicle floating or flying, no unstable vehicle buoyancy, no vehicle animation mismatch, no character on a vehicle without support, no invisible objects being interacted with, no non-reactive environment, no objects vibrating or jittering, no camera inside geometry, no severe lighting or shadow glitch, no UI state inconsistent with the world, no invisible wall or barrier, no falling through floor or map, no vehicle passing through solid objects, no duplicating or multiplying objects, no missing or mismatched sounds, no abrupt teleportation, no dead character acting alive, no ghost UI elements, no incorrect transparency or ghosting, no broken water interaction, no weapon misalignment, and no motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.37,25300,288
+g8r063,Red Dead Redemption 2,Games_json/RDR2_Dataset/g8r063/video.mp4,TRUE,TRUE,Two deers that have been skinned are floating in the air,Two deer carcasses are floating in the air,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.33,23240,276
+gce2ne,Red Dead Redemption 2,Games_json/RDR2_Dataset/gce2ne/video.mp4,TRUE,TRUE,The deer is launched into the sky,A deer runs up the inclinced side of a small tent,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.15,31290,55
+grj2cy,Red Dead Redemption 2,Games_json/RDR2_Dataset/grj2cy/video.mp4,TRUE,TRUE,The person in the front suddenly falls beneath the ground and disappears,The man falls down into the ground,"```json
+{
+  ""reasoning"": ""The video shows a character walking on a dirt path in a rural setting. The character appears to be moving forward steadily, and there are no signs of clipping, floating, or any other visual anomalies. The environment seems to be rendered correctly, and the character's movements are consistent with typical gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.34,31290,88
+gtit99,Red Dead Redemption 2,Games_json/RDR2_Dataset/gtit99/video.mp4,TRUE,TRUE,The stagecoach jumps from the ground and remains in the air briefly,The horse-drawn carriage jumps into the air,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and there are no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.56,31290,69
+knwsk5,Red Dead Redemption 2,Games_json/RDR2_Dataset/knwsk5/video.mp4,TRUE,TRUE,One person suddenly afloat and turns away from the table with a sitting gesture,The sitting man begins to float above the box in a sitting pose,"```json
+{
+  ""reasoning"": ""I observed a character standing on a wooden table, which is not a typical interaction in the game. This suggests a glitch where the character is not properly anchored to the ground."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A character is standing on a wooden table, defying the expected physics and interaction rules of the game.""
+}
+```",TRUE,"A character is standing on a wooden table, defying the expected physics and interaction rules of the game.",TRUE,FALSE,0.83,6156,85
+kovzm0,Red Dead Redemption 2,Games_json/RDR2_Dataset/kovzm0/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is walking along a dirt path, and the environment appears to be functioning as intended."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.6,31290,62
+ku3qm9,Red Dead Redemption 2,Games_json/RDR2_Dataset/ku3qm9/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, with no signs of characters being frozen in poses, floating, or experiencing clipping issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.96,31290,67
+m0k4uc,Red Dead Redemption 2,Games_json/RDR2_Dataset/m0k4uc/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The horse and rider appear to be moving along a rocky path without any unusual behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.96,31290,60
+mgsm2u,Red Dead Redemption 2,Games_json/RDR2_Dataset/mgsm2u/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The horse and rider appear to be moving naturally along the path."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.46,31290,56
+mkpoc2,Red Dead Redemption 2,Games_json/RDR2_Dataset/mkpoc2/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.14,31290,55
+o9c9tn,Red Dead Redemption 2,Games_json/RDR2_Dataset/o9c9tn/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.52,31290,43
+rpyf3a,Red Dead Redemption 2,Games_json/RDR2_Dataset/rpyf3a/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and environment appear to be behaving as expected within the game's mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.67,31290,59
+ucb8m1,Red Dead Redemption 2,Games_json/RDR2_Dataset/ucb8m1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and horses appear to be moving naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.04,31290,57
+w9qqei,Red Dead Redemption 2,Games_json/RDR2_Dataset/w9qqei/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The horse and rider appear to be moving smoothly across the snowy terrain, and there are no signs of clipping, floating, or other graphical glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.61,31290,72
+yyjrpy,Red Dead Redemption 2,Games_json/RDR2_Dataset/yyjrpy/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and all characters and objects are behaving as expected."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.82,31290,60
+0k4ucb,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/0k4ucb/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any characters locked in a pose (seated, falling, aiming) that does not match their current movement or context. There was no character suspended in mid-air with no visible ground, platform, rope, or vehicle supporting them. No character was walking or standing on water, smoke, or another clearly non-solid surface. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdoll or launch, characters occupying the same space, projectiles frozen in air, projectiles passing through targets, vehicles floating or flying, unstable vehicle buoyancy, vehicle animation mismatch, characters on a vehicle without support, invisible objects being interacted with, non-reactive environment, objects vibrating or jittering, camera inside geometry, severe lighting or shadow glitch, UI state inconsistent with world, invisible wall or barrier, falling through floor or map, vehicle passing through solid objects, duplicating or multiplying objects, missing or mismatched sounds, abrupt teleportation, dead character acting alive, ghost UI elements, incorrect transparency or ghosting, broken water interaction, weapon misalignment, or motion defying gravity or inertia."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.18,31288,276
+2uav1o,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/2uav1o/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The horse and rider appear to be moving smoothly along the snowy path, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.34,31288,71
+5et06l,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/5et06l/video.mp4,TRUE,TRUE,The monster slides on the ground to the right,A frost attack appears in mid-air at the side of the player,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and all characters and objects are behaving as expected."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.98,31291,60
+7ypslx,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/7ypslx/video.mp4,TRUE,TRUE,Two people clips through a door,Two draugr corpses are partially through a closed iron door,"{
+  ""reasoning"": ""I considered MR-007 (Overpowered ragdoll or launch). The character appears to be launched from the ground, which could indicate an overpowered ragdoll effect."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A character is launched into the air from the ground, indicating an overpowered ragdoll effect.""
+}",TRUE,"A character is launched into the air from the ground, indicating an overpowered ragdoll effect.",TRUE,FALSE,1.57,14519,79
+8pyash,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/8pyash/video.mp4,TRUE,TRUE,The monster is launched into the sky,The mammoth flies up into the air,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is holding a bow and arrow, and the environment appears to be a natural landscape with no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.52,31291,73
+9c9tnl,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/9c9tnl/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.76,31288,55
+9tnl77,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/9tnl77/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be moving naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.29,31288,55
+bqf481,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/bqf481/video.mp4,TRUE,TRUE,The skeleton twists and moves around the basement rapidly,A draugr is floating in mid-air,"```json
+{
+  ""reasoning"": ""I considered MR-001 (T-pose or default rig pose), MR-002 (Wrong or stuck animation state), and MR-003 (Floating or stuck mid-air). The character appears to be in a normal standing pose and is not frozen in a T-pose or A-pose. There is no indication of the character being stuck in an incorrect animation state. Additionally, the character is not floating or stuck mid-air."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.68,17541,121
+bwpqn8,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/bwpqn8/video.mp4.mp4,TRUE,TRUE,The bucket and the person float above the ground and move vertically to the sky,The player floats up into the sky on the bucket,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a character interacting with a well, which is a normal gameplay action."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.26,31291,59
+c1sjd3,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/c1sjd3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""No obvious glitches detected. The video appears to show normal gameplay within a village setting."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.46,31288,46
+c25tpy,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/c25tpy/video.mp4,TRUE,TRUE,The bear is launched into the sky,The bear flies into the air while frozen,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements appear to be consistent with normal gameplay, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.16,31291,69
+g6j18i,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/g6j18i/video.mp4,TRUE,TRUE,A horse stands on top of another horse,A horse is floating above another hose,"```json
+{
+  ""reasoning"": ""I observed a horse that appears to be floating in the air above a campsite. This is unusual behavior as horses typically don't float in the air. The horse seems to be defying gravity, which suggests a glitch."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A horse is seen floating in the air above a campsite, defying the expected gravitational pull. This is an unusual and physically impossible behavior for a horse in the game.""
+}
+```",TRUE,"A horse is seen floating in the air above a campsite, defying the expected gravitational pull. This is an unusual and physically impossible behavior for a horse in the game.",TRUE,TRUE,2.97,31291,109
+gmjrjg,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/gmjrjg/video.mp4,TRUE,TRUE,The person falls beneath the floor into a tunnel,The player and bandit corpse fall through the floor of the lift,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The player is exploring a cave, interacting with objects, and examining a weapon. Everything appears to function as expected within the game's mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.94,31291,71
+k93v3w,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/k93v3w/video.mp4,TRUE,TRUE,The tiger stands up and starts to spin,The sabre cat spins around in a circle,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The character and the Sabre Cat appear to be moving naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.78,31291,59
+kufm28,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/kufm28/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters appear to be moving naturally within the game environment, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.83,31288,69
+nxg1ze,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/nxg1ze/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items in these frames. The character appears to be moving normally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.86,31288,55
+od1uj1,The Elder Scrolls V - Skyrim,Games_json/The_Elder_scrolls_V_Skyrim/od1uj1/video.mp4,TRUE,TRUE,The bear is launched upwards,The cave bear flies into the air in front of the cave entrance,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be moving and interacting with the environment in a typical manner."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.64,31291,59
+qqeidk,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/qqeidk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The player is navigating through the environment, interacting with objects, and using abilities without any noticeable glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.18,31288,63
+u3qm9e,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/u3qm9e/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's actions and interactions appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.38,31288,55
+ztbwh3,The Elder Scrolls,Games_json/The_Elder_scrolls_V_Skyrim/ztbwh3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a character standing on a cobblestone path in Whiterun, then the player menu is opened, and finally, the map is displayed. There are no signs of clipping, floating, or any other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.54,31288,88
+37pq7x,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/37pq7x/video.mp4.mp4,TRUE,TRUE,The other person's head is launched into the sky,The enemy flies into the air,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The characters and environment appear to function as expected within the game's mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.23,31293,58
+3875qv,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/3875qv/video.mp4,TRUE,TRUE,The person's head is been chopped off and the body falls into the ocean,The body of the enemy flies into the air,"```json
+{
+  ""reasoning"": ""I observed a character being launched into the air after being hit by another character. This action seems to defy the expected physics of the game, where characters should typically fall or react more realistically to such impacts."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A character is launched into the air after being hit, defying typical physics expectations in the game.""
+}
+```",TRUE,"A character is launched into the air after being hit, defying typical physics expectations in the game.",TRUE,TRUE,1.14,9395,90
+3apnnv,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/3apnnv/video.mp4,TRUE,TRUE,A person clips through a door into a room,The player steps through the closed door,"```json
+{
+  ""reasoning"": ""I did not observe any character frozen in a T-pose, A-pose, or other stiff default pose, nor did I see any character locked in an incorrect pose, floating, or walking on water. There was no clipping through solid geometry, missing or distorted body parts, overpowered ragdolls, characters occupying the same space, projectiles frozen in air, or vehicles with issues. The environment and UI also appeared consistent."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.13,8663,115
+4mth2n,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/4mth2n/video.mp4,TRUE,TRUE,The person floats in the air,The player is floating above the ground in a seated pose,"```json
+{
+  ""reasoning"": ""I considered MR-014 (Character on vehicle without support) because the player seems to be riding a horse, which is a vehicle, but the character appears to be floating above the ground without any visible support or harness."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The character is seen riding a horse but is not properly attached to it, appearing to float above the ground without any visible support or harness.""
+}
+```",TRUE,"The character is seen riding a horse but is not properly attached to it, appearing to float above the ground without any visible support or harness.",TRUE,TRUE,1.41,10493,103
+502zx9,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/502zx9/video.mp4,TRUE,TRUE,The person in the room's head is not rendered,The shop keeper is standing in a T-pose,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a normal interaction between the player and the NPC, with no signs of glitches such as clipping, floating, or incorrect animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.19,31293,70
+5hs8bl,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/5hs8bl/video.mp4,TRUE,TRUE,The animal faces sideways and slides on the ground,The player runs forward pushing the dog sideways,"```json
+{
+  ""reasoning"": ""I did not observe any characters frozen in a T-pose, A-pose, or other stiff default pose, nor any characters locked in a pose that does not match their current movement or context. There was no character suspended in mid-air, walking on water, or clipping through solid geometry. The character's movements and interactions appear consistent with the game's physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.27,8297,104
+8j5q2a,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/8j5q2a/video.mp4,TRUE,TRUE,The horse lifts its fore legs and is positioned vertically,The horse stands upright on its back legs as it runs down the trail,"```json
+{
+  ""reasoning"": ""I considered checklist items related to clipping through solid geometry and vehicle animation mismatch. The horse appears to be moving through the snow in a way that suggests it is not interacting with the terrain properly, which could indicate a clipping issue."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The horse is moving through the snow in a manner that suggests it is not interacting with the terrain properly, indicating a possible clipping issue.""
+}
+```",TRUE,"The horse is moving through the snow in a manner that suggests it is not interacting with the terrain properly, indicating a possible clipping issue.",TRUE,FALSE,1.26,10493,101
+bcbcd4,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/bcbcd4/video.mp4,TRUE,TRUE,The person appears to be falling yet his position does not actually move,The player hovers near the top of the basement shaft,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be climbing a ladder and interacting with the environment in a manner consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.42,31293,64
+c1sjd3,The Witcher 3,Games_json/The_Witcher_3_Dataset/c1sjd3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""No obvious glitches are detected in the video. The character is moving through the environment as expected, and there are no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.38,31290,63
+ejjj72,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/ejjj72/video.mp4,TRUE,TRUE,The monster freezes at its position,The howler slides across the floor while twitching,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The creature appears to be behaving as expected, with no signs of clipping, floating, or other anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.44,31293,64
+fxz2ac,The Witcher 3 - Wild Hunt,Games_json/The_Witcher_3_Dataset/fxz2ac/video.mp4,TRUE,TRUE,The other person's horse slides on the ground without moving the legs,The competing horse slides across the ground without moving its legs,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.55,31293,55
+jd3wye,The Witcher 3,Games_json/The_Witcher_3_Dataset/jd3wye/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character appears to be moving and interacting with the environment in a manner consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.08,31290,62
+kovzm0,The Witcher 3,Games_json/The_Witcher_3_Dataset/kovzm0/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is walking along a path, and the environment appears to be functioning as intended."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.3,31290,61
+qnmi4z,The Witcher 3,Games_json/The_Witcher_3_Dataset/qnmi4z/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements appear natural and consistent with the game's physics. There are no signs of clipping, floating, or other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.29,28894,71
+qqeidk,The Witcher 3,Games_json/The_Witcher_3_Dataset/qqeidk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements appear consistent with the game's physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.82,31290,57
+sm2uav,The Witcher 3,Games_json/The_Witcher_3_Dataset/sm2uav/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""No obvious glitches were observed in the video. The character is walking on a wooden dock, which appears to be a solid surface. There are no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.39,31290,69
+u3qm9e,The Witcher 3,Games_json/The_Witcher_3_Dataset/u3qm9e/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is walking along a path, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.14,31290,65
+ucb8m1,The Witcher 3,Games_json/The_Witcher_3_Dataset/ucb8m1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""No obvious glitches are detected in the video. The player is navigating through a village, interacting with NPCs, and following a quest. The environment appears to be functioning normally without any unusual visual or gameplay issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.34,31290,70
+ztbwh3,The Witcher 3,Games_json/The_Witcher_3_Dataset/ztbwh3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The boat appears to be moving smoothly on the water, and there are no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.48,31290,68
+zztbwh,The Witcher 3,Games_json/The_Witcher_3_Dataset/zztbwh/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is moving through the environment as expected, and there are no signs of clipping, floating, or other anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.17,31290,67
+28z874,Watch Dogs 2,Games_json/Watch_Dogs/28z874/video.mp4,TRUE,TRUE,"A car is stuck on an NPC’s neck, and when an ambulance arrives, the car suddenly disappears.",The vehicle is improperly positioned on a character and then vanishes instantly without any physical movement.,"```json
+{
+  ""reasoning"": ""The video shows a character lying on the ground with a rope attached to them, which is typical gameplay involving a hostage situation. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,3.08,31289,74
+2hptd5,Watch Dogs 2,Games_json/Watch_Dogs/2hptd5/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.19,31289,43
+2nylsy,Watch Dogs 2,Games_json/Watch_Dogs/2nylsy/video.mp4,TRUE,TRUE,A character floats under a container and then suddenly teleports inside it.,The character is suspended in mid-air and then instantly relocates into the container without a natural transition.,"```json
+{
+  ""reasoning"": ""I considered checklist items related to character movement and interaction with the environment. The character is seen climbing over a ledge and then standing on top of a structure, which appears to be a normal gameplay action. There are no signs of clipping, floating, or any other abnormal behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.09,20507,84
+4cb1nh,Watch Dogs 2,Games_json/Watch_Dogs/4cb1nh/video.mp4,TRUE,TRUE,"After being lifted, containers suddenly shoot upward into the sky without any force.","The objects accelerate vertically on their own, indicating unrealistic physics or force application.","```json
+{
+  ""reasoning"": ""The video shows a character interacting with a container that appears to be floating in mid-air, which is not typical behavior in the game. This suggests a glitch where the container is not properly anchored to the ground."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A container is seen floating in mid-air, defying the expected physics of the game. The character interacts with it as if it were grounded, indicating a glitch in the game's collision detection system.""
+}
+```",TRUE,"A container is seen floating in mid-air, defying the expected physics of the game. The character interacts with it as if it were grounded, indicating a glitch in the game's collision detection system.",TRUE,FALSE,2.59,31289,111
+4ucb8m,Watch Dogs 2,Games_json/Watch_Dogs/4ucb8m/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is moving and interacting with the environment in a manner consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.82,31289,60
+5bc0i8,Watch Dogs 2,Games_json/Watch_Dogs/5bc0i8/video.mp4,TRUE,TRUE,"A biker rides downhill, crashes through a wall, and remains unharmed while the wall breaks.","The collision destroys the wall but causes no damage to the rider, showing inconsistent collision and damage physics.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is riding a motorcycle and navigating through the city streets, which appears to be normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.28,31289,63
+5m08jw,Watch Dogs 2,Games_json/Watch_Dogs/5m08jw/video.mp4,TRUE,TRUE,"When the player approaches a car to enter it, the car suddenly disappears.","The vehicle vanishes upon interaction instead of allowing entry, indicating a rendering or state glitch.","```json
+{
+  ""reasoning"": ""I observed the player character riding a scooter and approaching a barrier. The character interacts with the barrier, causing it to move slightly, which is expected behavior. There are no signs of clipping, floating, or any other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.02,9391,75
+77zgpl,Watch Dogs 2,Games_json/Watch_Dogs/77zgpl/video.mp4,TRUE,TRUE,"After the driver exits, the car continues moving on its own.","The vehicle keeps driving without a driver, indicating missing control or physics constraints.","```json
+{
+  ""reasoning"": ""I observed the player character chasing a car on a bridge. The car appears to be moving forward, and the player character is running alongside it. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.34,31289,78
+79sja0,Watch Dogs 2,Games_json/Watch_Dogs/79sja0/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth and consistent with expected behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.14,31289,55
+7rzgwr,Watch Dogs 2,Games_json/Watch_Dogs/7rzgwr/video.mp4,TRUE,TRUE,The player approaches a ladder to climb down but suddenly reacts as if falling from a height.,"Instead of climbing, the character triggers a fall animation abruptly, suggesting incorrect animation or state transition.","```json
+{
+  ""reasoning"": ""The player character is performing parkour maneuvers on a rooftop. The character is seen jumping off a ledge and landing on the ground, which appears to be a normal gameplay action."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.24,31289,64
+8qd9j1,Watch Dogs 2,Games_json/Watch_Dogs/8qd9j1/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The character is moving around the room, and there are no signs of any glitch patterns listed in the checklist. The character's movements appear to be normal and consistent with the game's physics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,5.71,31289,67
+9jmxs9,Watch Dogs 2,Games_json/Watch_Dogs/9jmxs9/video.mp4,TRUE,TRUE,"After crashing into a sign, the bike is launched into the air, flips multiple times, and lands without damage.",The vehicle performs unrealistic airborne flips and recovers without any crash consequences or damage.,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The motorcycle and rider appear to be moving smoothly along the road, and there are no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.55,31289,71
+9wiyta,Watch Dogs 2,Games_json/Watch_Dogs/9wiyta/video.mp4,TRUE,TRUE,"A car flies over a wall, and an NPC follows it outside the area.","The vehicle moves through the air unnaturally, and the NPC pathing breaks by following it beyond normal boundaries.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence. The character appears to be moving naturally within the game environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,1.44,20507,55
+ab0nx1,Watch Dogs 2,Games_json/Watch_Dogs/ab0nx1/video.mp4,TRUE,TRUE,Pedestrians avoid walking normally and instead jump into bushes and flowers while moving.,"NPCs choose unnatural paths, stepping or clipping through obstacles instead of navigating around them.","```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The NPCs and the environment appear to function as expected within the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.43,31289,56
+adtnm4,Watch Dogs 2,Games_json/Watch_Dogs/adtnm4/video.mp4,TRUE,TRUE,"A motorcycle crash throws the rider off, causing visible damage.","The rider is ejected from the bike upon impact, showing a standard crash response with physical consequences.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The gameplay appears to be smooth, and all characters and objects behave as expected within the game's physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.29,31289,66
+apd89h,Watch Dogs 2,Games_json/Watch_Dogs/apd89h/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The character is being lifted by a crane, which is a normal gameplay mechanic. There are no signs of clipping, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.78,31289,65
+c1sjd3,Watch Dogs 2,Games_json/Watch_Dogs/c1sjd3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The player is interacting with a terminal, which is a common gameplay mechanic in Watch Dogs 2. The player is seen approaching the terminal, using a device to interact with it, and then standing back after completing the action. This sequence is typical and expected in the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.83,23239,84
+du596t,Watch Dogs 2,Games_json/Watch_Dogs/du596t/video.mp4,TRUE,TRUE,The small remote-controlled car falls down and get beneath the map surface and everything become visible ftom the point of view.,,"```json
+{
+  ""reasoning"": ""The video shows a character driving a vehicle through a construction site. The vehicle appears to be moving along the ground, and there are no signs of clipping through solid objects, floating, or any other visual anomalies that would indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.42,31289,76
+f0ophe,Watch Dogs 2,Games_json/Watch_Dogs/f0ophe/video.mp4,TRUE,TRUE,"The player is being thrown toward the tree and after being hit by the tree, he gets damaged and eventually dies.",,"```json
+{
+  ""reasoning"": ""The video shows a character in a restricted area, interacting with a server, and then moving towards a vehicle. The character's movements and interactions appear normal, with no signs of clipping, floating, or other visual anomalies. The environment also appears consistent with the game's physics and rendering."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.57,31289,86
+h3pku3,Watch Dogs 2,Games_json/Watch_Dogs/h3pku3/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I considered all the checklist items but did not observe any violations. The video shows a character interacting with another character in a normal manner, with no signs of clipping, floating, or other glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.93,31289,68
+hap76u,Watch Dogs 2,Games_json/Watch_Dogs/hap76u/video.mp4,TRUE,TRUE,The player jumps from the ground directly onto a rooftop.,"The character performs an unusually high jump, reaching a roof in a way that defies normal movement limits.","```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.65,31289,43
+hgrk4v,Watch Dogs 2,Games_json/Watch_Dogs/hgrk4v/video.mp4,TRUE,TRUE,"After an explosion, the semi-trucks is launched into the air and spins uncontrollably.",The truck is propelled upward with excessive force and rotates mid-air in an unrealistic way.,"```json
+{
+  ""reasoning"": ""The video shows a character standing on the road, observing a chaotic scene with burning vehicles and police officers. There are no signs of any glitch patterns listed in the checklist. The character's movements and interactions appear normal, and the environment is rendered without any unusual visual artifacts."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,FALSE,2.95,31289,83
+meeeix,Watch Dogs 2,Games_json/Watch_Dogs/meeeix/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The player character is moving through the environment, interacting with objects, and navigating obstacles. There are no signs of characters being frozen in poses, floating, or experiencing clipping issues. The character's movements appear smooth and consistent with expected gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.21,31289,77
+mkpoc2,Watch Dogs 2,Games_json/Watch_Dogs/mkpoc2/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character is interacting with the door in a typical manner, and there are no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,6.16,31289,70
+mmgsm2,Watch Dogs 2,Games_json/Watch_Dogs/mmgsm2/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,2.58,31289,43
+nl777l,Watch Dogs 2,Games_json/Watch_Dogs/nl777l/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The boat appears to be moving smoothly across the water, and there are no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.85,31289,69
+qqeidk,Watch Dogs 2,Games_json/Watch_Dogs/qqeidk/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""The player is navigating through a control room and interacting with various terminals. The player's movements and interactions appear to be within normal gameplay mechanics, with no signs of clipping, floating, or other visual anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.95,31289,70
+vrgj6c,Watch Dogs 2,Games_json/Watch_Dogs/vrgj6c/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""No obvious glitches are detected in the provided video clips. The character is moving and interacting with the environment as expected, with no signs of clipping, floating, or other unusual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,3.36,31289,65
+wqnmi4,Watch Dogs 2,Games_json/Watch_Dogs/wqnmi4/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during this sequence."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,7.54,31289,43
+yjrpyf,Watch Dogs 2,Games_json/Watch_Dogs/yjrpyf/video.mp4,FALSE,TRUE,,,"```json
+{
+  ""reasoning"": ""I did not observe any violations of the checklist items during the video. The character's movements appear consistent with the game's physics and animations."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",FALSE,,TRUE,TRUE,4.59,31289,57

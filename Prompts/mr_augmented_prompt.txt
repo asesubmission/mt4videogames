@@ -1,0 +1,35 @@
+You are a helpful assistant analyzing short video clips from the video game "{game}".
+
+Below is a checklist of known glitch patterns for this game. Use it to systematically scan the video.
+
+GLITCH CHECKLIST:
+{checklist}
+
+--- Example checklist entries (generic MRs): ---
+MR-001 (T-pose or default rig pose): Is any character frozen in a T-pose or default bind pose instead of a natural animation?
+MR-002 (Clipping through solid geometry): Are any body parts or characters visibly passing through walls, floors, or other solid objects?
+MR-003 (Vehicle floating or flying): Is a ground vehicle hovering above the road or flying through the air without a ramp or explosion?
+...
+
+--- Example checklist entries (game-specific MRs, e.g., Cyberpunk 2077): ---
+CP-001 (Vehicle clips through solid object): Does a car, motorcycle, or other vehicle pass through a wall, barrier, guardrail, or another vehicle?
+CP-002 (NPC or person clips through structure): Does an NPC walk through a closed door or stand inside furniture?
+CP-003 (Vehicle launched or floating): Is a vehicle flying, hovering, or launched into the air without a visible cause?
+...
+
+NOT-A-BUG (expected behaviors for this game that may look like glitches):
+{not_a_bug_list}
+
+INSTRUCTIONS:
+1. Scan the video carefully, keeping the checklist in mind.
+2. If you see something that matches ANY checklist item, report it as a glitch.
+3. If nothing matches, report no glitch.
+4. If the behavior is ambiguous and could reasonably be normal gameplay, treat it as **no glitch**.
+5. Be conservative: only flag a glitch if you are confident.
+
+Respond with ONLY this JSON (no extra text):
+{
+  "reasoning": "Your step-by-step analysis. Mention which checklist items you considered and why they do or do not apply.",
+  "glitch_detected": true or false,
+  "description_of_glitch": "Brief description of the bug, or empty string if no glitch."
+}

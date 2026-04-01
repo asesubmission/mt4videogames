@@ -1,0 +1,535 @@
+file_id,game,video_path,gt_is_glitch,has_gt,gt_descr1,gt_descr2,baseline_raw,props_raw,baseline_glitch,props_glitch,baseline_desc,props_desc,baseline_valid_json,props_valid_json,baseline_correct_match,props_correct_match,baseline_time_s,props_time_s,baseline_prompt_tokens,baseline_completion_tokens,props_prompt_tokens,props_completion_tokens
+2lqd50,Fallout 76,Games_json/Fallout_76/2lqd50/video.mp4,True,True,"While the player looks around, a body floats in the air, drifting from right to left.","A corpse moves horizontally mid-air without falling, indicating broken gravity or physics behavior.","{
+  ""reasoning"": ""The video shows a player character in a post-apocalyptic setting, engaging in combat with various enemies. The environment is consistent with the game's theme, and there are no visible glitches or anomalies in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a forested area with various objects and explosions. The checklist items considered include floating objects, invisible models, twitching corpses, and other glitches. No specific glitch patterns from the checklist are observed in the video. The environment and actions appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,7.8,3.86,57948,67,59328,84
+2nl0x1,Fallout 76,Games_json/Fallout_76/2nl0x1/video.mp4,True,True,"The main character’s body is invisible, but its shadow is still visible.","The player model is missing, yet the shadow remains rendered, showing a visual inconsistency.","{
+""reasoning"": ""The video shows a player character engaging in combat with a feral ghoul, which is a common enemy in the game. The environment and actions are consistent with gameplay, and there are no visible glitches or anomalies."",
+""glitch_detected"": false,
+""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a post-apocalyptic setting with various glitches. The player character is attacked by a Feral Ghoul, and there are visible glitches such as a white, ghostly figure on the ground, which is not a normal in-game object. This figure appears to be a glitch as it does not interact with the environment or the player. Additionally, the player character's health bar is visible, and there are no other obvious glitches in the environment or NPC behavior. The white figure is not a part of the game's normal content and is likely a visual anomaly."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""A white, ghostly figure is seen on the ground, which is not a normal in-game object and appears to be a glitch.""
+}",False,True,,"A white, ghostly figure is seen on the ground, which is not a normal in-game object and appears to be a glitch.",True,True,False,False,6.18,4.82,57948,64,59328,170
+3b758w,Fallout 76,Games_json/Fallout_76/3b758w/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player navigating through a post-apocalyptic environment, engaging in combat, and interacting with objects. There are no visible glitches or anomalies in the gameplay mechanics or graphics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player navigating through a desolate, post-apocalyptic environment. There are no visible glitches such as floating objects, invisible characters, or erratic NPC movements. The player interacts with the environment normally, picking up items and reading journals. The HUD elements are consistent and functional, and there are no signs of abnormal visual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""No glitch observed in the video.""
+}",False,False,,No glitch observed in the video.,True,True,True,True,6.27,4.7,57948,61,59328,99
+3isp10,Fallout 76,Games_json/Fallout_76/3isp10/video.mp4,True,True,A dead body continues moving and twitching on the ground.,"After death, the corpse behaves actively, shaking or “dancing” instead of staying still.","{
+  ""reasoning"": ""The video shows a player navigating a corridor with metal grating floors and walls, which is a common environment in Fallout 76. The behavior of the player and the environment appears consistent with normal gameplay, including the presence of enemies and the player's weapon. There are no visible glitches or anomalies."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a first-person view of a player navigating a metal grating corridor in a game. The player is holding a weapon, and there are dead bodies on the ground. However, there are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The environment appears to be a typical in-game setting with no abnormal visual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.54,4.77,57948,85,59328,97
+5q17vq,Fallout 76,Games_json/Fallout_76/5q17vq/video.mp4,True,True,"An NPC’s body appears incomplete and moves erratically, rapidly shifting positions.",The character model is partially broken and teleports or jitters between locations unnaturally.,"{
+  ""reasoning"": ""The robot appears to be in a state of disrepair, with parts missing or damaged, and is standing in a natural environment. There are no visible glitches or anomalies in the behavior or environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a robotic character in a forested area with trees and a road. The character appears to be stationary and there are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The environment looks consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.56,4.81,57948,64,59328,75
+63ebsl,Fallout 76,Games_json/Fallout_76/63ebsl/video.mp4,True,True,An NPC appears to walk but only slightly shifts position while mostly staying in place.,"The walking animation plays, but the character barely moves forward, creating a sliding or stuck effect.","{
+  ""reasoning"": ""The video shows a character interacting with another character in a typical conversation scene, with no visible glitches or unusual behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character sitting on a bench and another character standing nearby. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The environment and character interactions appear normal."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.65,4.94,57948,48,59328,66
+6pzpom,Fallout 76,Games_json/Fallout_76/6pzpom/video.mp4,True,True,A trash can rolls and moves on the ground without any visible force.,"The object moves on its own as if pushed by an invisible force, suggesting unstable physics simulation.","{
+  ""reasoning"": ""The video shows a consistent environment with no visible glitches or anomalies in the gameplay. The player is exploring a wooden structure with various objects and the HUD elements are displayed correctly."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a first-person view exploring a wooden structure with various objects like a bench, a barrel, and a grill. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The environment appears consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.04,4.48,57948,59,59328,80
+8qd9j1,Fallout 76,Games_json/Fallout_76/8qd9j1/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player character moving through a post-apocalyptic environment with various activities like testing water samples and harvesting plants. There are no visible glitches or anomalies in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character moving through a post-apocalyptic environment with various structures and vegetation. There are no visible glitches such as floating objects, invisible models, or abnormal NPC behaviors. The environment appears to be functioning normally with no signs of glitches from the checklist items provided."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.86,5.12,57948,60,59328,80
+8uzwot,Fallout 76,Games_json/Fallout_76/8uzwot/video.mp4,False,True,,,"{
+""reasoning"": ""The video shows a player navigating through a dark, post-apocalyptic environment with various objectives displayed. There are no visible glitches or anomalies in the gameplay mechanics or visuals."",
+""glitch_detected"": false,
+""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player navigating through a dark, post-apocalyptic environment with various structures and debris. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The player interacts with the environment, including a responder corpse and chem instructions, but nothing unusual or glitchy is observed."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,5.93,4.33,57948,54,59328,87
+90hfw5,Fallout 76,Games_json/Fallout_76/90hfw5/video.mp4,True,True,"The player passes through a wall and falls below the world, viewing the environment from underneath.","Collision fails, allowing the character to clip through geometry and fall outside the map boundaries.","{
+  ""reasoning"": ""The player is moving through a grassy area with trees and structures, which is a typical environment in the game. There are no visible glitches such as physics violations, rendering issues, or clipping."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character moving through various outdoor environments, including grassy areas, fences, and structures. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The player character appears to be moving normally without any abnormal visual behaviors. The checklist items were considered, but none matched the observed gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,3.77,2.71,45148,64,46528,92
+9wh0a0,Fallout 76,Games_json/Fallout_76/9wh0a0/video.mp4,True,True,"An NPC moves extremely fast, appearing to teleport between positions.","The character rapidly changes location in jumps instead of moving smoothly, indicating teleport-like motion.","{
+  ""reasoning"": ""The video shows a player navigating through a forested area with various environmental elements like trees, bushes, and a river. There are no visible glitches or anomalies in the gameplay that stand out as unusual or physically impossible."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player navigating through a forested area with various trees and grass. There are no visible glitches such as floating objects, invisible characters, or abnormal NPC behaviors. The environment appears consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.56,3.74,57948,68,59328,68
+agjh7m,Fallout 76,Games_json/Fallout_76/agjh7m/video.mp4,True,True,"An NPC is killed, teleports upstairs, walks in place, then collapses while floating above the ground.","After death, the NPC relocates unnaturally and continues animating mid-air before falling incorrectly.","{
+  ""reasoning"": ""The video shows a consistent gameplay environment with no visible glitches or anomalies in the visuals or mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a first-person perspective, engaging with a glowing green creature. There are no visible glitches in the gameplay mechanics or visual elements. The player is shooting at the creature, and the environment appears consistent with the game's setting. No checklist items are visibly violated."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.34,4.62,57948,44,59328,83
+b5uwox,Fallout 76,Games_json/Fallout_76/b5uwox/video.mp4,True,True,"After dying, a character’s body is launched into the air and lands on a roof.","The corpse is propelled upward with excessive force, landing in an unrealistic elevated position.","{
+  ""reasoning"": ""The video shows a character respawning on a rooftop after being killed, which is a common gameplay mechanic in the game. The respawn effect is normal and expected in this context."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a rooftop area with no visible glitches. The character is moving around the rooftop, and there are no floating objects, invisible models, or other abnormal visual behaviors. The environment appears consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,4.66,3.09,51027,60,52407,72
+bjj3f5,Fallout 76,Games_json/Fallout_76/bjj3f5/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player character in a forested area with various trees and foliage, which is a typical environment in the game. There are no visible glitches or abnormal behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a forested area with various trees and foliage. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The environment appears to be functioning normally with no abnormal visual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,8.31,6.7,53334,60,54714,73
+bjxyq5,Fallout 76,Games_json/Fallout_76/bjxyq5/video.mp4,True,True,"While talking, an NPC suddenly disappears.","The character vanishes mid-conversation without transition, indicating a rendering or state glitch.","{
+  ""reasoning"": ""The video shows a character standing in a dark, desolate environment with dialogue and no visible glitches or anomalies in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character named Beckett standing in a dark, rocky environment. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The character appears to be interacting with the player, and there are no abnormal visual behaviors that match the checklist items provided."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.07,4.44,57948,50,59328,83
+bmmgsm,Fallout 76,Games_json/Fallout_76/bmmgsm/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player navigating through a post-apocalyptic environment with various rooms and items, including skeletons, damaged structures, and a computer terminal. There are no visible glitches or anomalies in the gameplay mechanics or graphics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a post-apocalyptic setting, exploring various rooms and areas. There are no visible glitches such as floating objects, invisible models, or corrupted NPC models. The player interacts with objects like a computer terminal and a medical chart, which are part of the game's environment. The scenes depict typical gameplay without any abnormal visual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,7.89,6.14,57948,68,59328,96
+c1sjd3,Fallout 76,Games_json/Fallout_76/c1sjd3/video.mp4,False,True,,,"{
+""reasoning"": ""The video shows a character interacting with a stove and a radio, with no visible glitches or anomalies in the gameplay."",
+""glitch_detected"": false,
+""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character named Esme Rousselau in a kitchen setting. She is standing next to a stove and appears to be stirring something. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The character's model is intact, and there are no signs of corruption or unusual behavior. The environment is consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.22,4.72,55641,44,57021,99
+eit54i,Fallout 76,Games_json/Fallout_76/eit54i/video.mp4,True,True,An NPC gets shot but does not die and remains standing.,"Despite taking damage, the character shows no death response and stays upright unnaturally.","{
+  ""reasoning"": ""The video shows a player engaging in combat with a Scorch Believer, a type of enemy in Fallout 76. The behavior of the enemy and the player's actions are consistent with the game's mechanics, including shooting and taking damage. There are no visible glitches or anomalies in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character engaging in combat with a Scorch Believer. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The player is shooting at the Scorch Believer, and the environment appears consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.78,3.98,57948,85,59328,79
+eqkar3,Fallout 76,Games_json/Fallout_76/eqkar3/video.mp4,True,True,"After being shot, an NPC follows the player, then stops and moves in place before getting stuck.",The character enters a looped movement animation without changing position and becomes permanently stuck.,"{
+  ""reasoning"": ""The video shows a player character engaging with a feral ghoul roamer, which is a common enemy in the game. The behavior of the ghoul and the player's actions are consistent with typical gameplay interactions, such as shooting and navigating the environment. There are no visible glitches or anomalies in the physics or rendering."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a first-person view, engaging with a Feral Ghoul Roamer. The character is shooting at the ghoul, which is visible through a doorway. There are no floating objects, invisible models, or glitchy NPC behaviors observed. The ghoul is a standard enemy that moves and reacts normally. No checklist items are met."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.15,4.23,57948,89,59328,98
+flwk28,Fallout 76,Games_json/Fallout_76/flwk28/video.mp4,True,True,An NPC playing guitar while seated has their upper body shift position while the legs and guitar remain fixed.,"The character’s body parts become misaligned, with the torso moving separately from the legs and instrument.","{
+  ""reasoning"": ""The character is seen playing a banjo and dancing, which is a normal gameplay activity in a festive setting."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character in a police uniform playing a banjo and a guitar. The character is standing and moving slightly, but there are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The environment is consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.05,4.24,57948,47,59328,77
+h3pku3,Fallout 76,Games_json/Fallout_76/h3pku3/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a robot interacting with a character and a festive environment with balloons and decorations, which is consistent with a celebratory event in the game. There are no visible glitches or abnormal behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a robot named Cavendish in a festive environment with balloons and decorations. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The robot appears to be stationary and interacting with the player, which is normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.16,4.51,57948,64,59328,78
+muyzf1,Fallout 76,Games_json/Fallout_76/muyzf1/video.mp4,True,True,An enemy falls to the ground but slides around while attacking without any walking movement.,"The NPC remains in a fallen pose yet moves across the ground, attacking the player without proper animation.","{
+  ""reasoning"": ""The video shows a player character in a post-apocalyptic setting, engaging in combat with enemies. The environment includes grassy areas, rocky terrain, and a road. The player is equipped with a weapon and is seen shooting at enemies. There are no visible glitches or anomalies in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a first-person perspective, aiming a weapon at a Scorch. There are no visible glitches such as floating objects, invisible models, or corrupted NPC animations. The environment is consistent with normal gameplay, and there are no abnormal visual behaviors or glitches detected."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.24,4.53,57948,83,59328,82
+nl777l,Fallout 76,Games_json/Fallout_76/nl777l/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a first-person view of a character in a Fallout 76 game, navigating through a bunker-like environment. The character is holding a weapon and moving through various rooms, interacting with objects and characters. There are no visible glitches or abnormal behaviors in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a first-person perspective of a player navigating through a bunker-like environment. The player is holding a weapon and moving through various rooms. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The environment is consistent with plausible gameplay, including interactions with objects and characters. No checklist items are visibly violated."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.31,4.59,57948,80,59328,94
+pd1o0v,Fallout 76,Games_json/Fallout_76/pd1o0v/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a typical in-game environment with no visible glitches or anomalies. The player is interacting with objects and the environment in a manner consistent with the game's mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character lying on the ground, seemingly dead, with no visible movement or twitching. The character is in a room with various objects, but there is no indication of any glitch patterns such as floating objects, invisible models, or erratic NPC behavior. The character remains stationary on the ground, which could be a normal death animation or a glitch, but there is no clear evidence of a glitch in the provided clips."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.44,4.95,57948,59,59328,111
+qqeidk,Fallout 76,Games_json/Fallout_76/qqeidk/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player character in a Fallout 76 game environment, engaging in combat with a wendigo. The behavior of the wendigo and the player's actions are consistent with the game's mechanics, including the appearance of damage indicators and the environment. There are no visible glitches such as physics violations or rendering issues."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a Fallout 76 game environment. The checklist items considered include various glitches such as floating objects, invisible models, and NPC behaviors. The video does not show any of the specific glitch patterns listed in the checklist. The player is engaged in combat with enemies, and there are no visible signs of any glitches like floating corpses, invisible models, or erratic NPC movements. The environment appears to be a typical in-game scene with no abnormal visual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,9.21,7.63,57948,92,59328,121
+r57yic,Fallout 76,Games_json/Fallout_76/r57yic/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows normal gameplay elements such as exploring a house, interacting with supply crates, and navigating the environment. There are no visible glitches or anomalies in the visuals."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character moving through a post-apocalyptic environment, interacting with supply crates. There are no visible glitches such as floating objects, invisible models, or erratic NPC movements. The player is seen taking items from a crate, which is a normal gameplay action. No checklist items are visibly violated."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.18,4.6,57948,58,59328,86
+ub1wgk,Fallout 76,Games_json/Fallout_76/ub1wgk/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player character engaging in combat with a Noxious Sheepsquatch in a forested area. The environment and actions are consistent with typical gameplay, including combat animations and HUD elements."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a forested area with a creature named 'Legendary Noxious Sheepsquatch' in the distance. The checklist items considered include various glitches such as floating objects, invisible models, and NPC behaviors. No specific glitch patterns from the checklist are observed in the provided frames. The environment and character movements appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""No glitch observed in the video.""
+}",False,False,,No glitch observed in the video.,True,True,True,True,5.68,4.08,57948,65,59328,104
+v1o9c9,Fallout 76,Games_json/Fallout_76/v1o9c9/video.mp4,False,True,,,"{
+""reasoning"": ""The environment and objects in the video are consistent with the game's post-apocalyptic setting, and there are no visible glitches or anomalies."",
+""glitch_detected"": false,
+""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a Fallout 76 environment. The checklist items considered include various glitches such as floating objects, invisible models, and NPC behaviors. The video does not show any of the specific glitch patterns listed in the checklist. The environment appears to be a standard in-game scene with no abnormal visual behaviors or glitches evident."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""No glitch observed in the video.""
+}",False,False,,No glitch observed in the video.,True,True,True,True,5.24,3.94,53334,48,54714,100
+vrgj6c,Fallout 76,Games_json/Fallout_76/vrgj6c/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player interacting with a crafting interface in a game, specifically selecting different fermentable spirits. There are no visible glitches or anomalies in the gameplay mechanics or visuals."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player interacting with a crafting interface in a room with various equipment and items. There are no visible glitches such as floating objects, invisible models, or abnormal NPC behaviors. The player is selecting recipes for fermentable spirits, and the interface displays item stats and requirements. No checklist items are visibly violated."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,5.95,4.56,57948,60,59328,88
+yjrpyf,Fallout 76,Games_json/Fallout_76/yjrpyf/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a player character aiming at enemies in a post-apocalyptic setting, which is consistent with the game's environment and gameplay. There are no visible glitches or anomalies in the visuals or behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a player character in a first-person shooter game, aiming down the sights of a weapon. The checklist items considered include various glitches such as floating objects, invisible models, and NPC behaviors. No specific glitch patterns from the checklist are observed in the provided frames. The environment and gameplay appear to be normal with no visible anomalies or glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,10.07,8.54,57948,65,59328,94
+28z874,Watch Dogs 2,Games_json/Watch_Dogs/28z874/video.mp4,True,True,"A car is stuck on an NPC’s neck, and when an ambulance arrives, the car suddenly disappears.",The vehicle is improperly positioned on a character and then vanishes instantly without any physical movement.,"{
+  ""reasoning"": ""The truck is positioned in a way that it is elevated off the ground, with its front wheels lifted onto a wall, which is physically impossible in real life. This suggests a glitch or physics violation."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""The truck is elevated off the ground with its front wheels on a wall, which is not physically possible.""
+}","{
+  ""reasoning"": ""The video shows a pickup truck with its front wheel elevated off the ground, positioned over a person lying on the street. The truck appears to be stationary, and there is no visible explosion or force that would justify the vehicle's position. The person under the truck is not moving, and there is no indication of the truck being driven or launched into this position. The scene does not match any specific glitch checklist items, as there is no airborne vehicle, sudden disappearance of objects, or unnatural interactions. The behavior seems plausible within the context of the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",True,False,"The truck is elevated off the ground with its front wheels on a wall, which is not physically possible.",,True,True,False,False,6.58,4.99,57947,86,59420,135
+2hptd5,Watch Dogs 2,Games_json/Watch_Dogs/2hptd5/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows normal gameplay with no visible glitches or abnormal behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character walking and running in a city environment at night. There are no vehicles launched, objects shooting upward, or any other abnormal visual behaviors that match the checklist items. The player character interacts with the environment normally, and there are no glitches observed."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.43,4.9,57947,38,59420,79
+2nylsy,Watch Dogs 2,Games_json/Watch_Dogs/2nylsy/video.mp4,True,True,A character floats under a container and then suddenly teleports inside it.,The character is suspended in mid-air and then instantly relocates into the container without a natural transition.,"{
+  ""reasoning"": ""The video shows a character running and falling, which is a common gameplay mechanic in Watch Dogs 2. The behavior is consistent with the game's physics and does not indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character being launched into the air and landing on a rooftop, which is an exaggerated jump. This is not a glitch as it is a normal gameplay mechanic in Watch Dogs 2 where the player can perform parkour moves. No other checklist items are violated."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,3.8,2.7,37184,62,38657,80
+4cb1nh,Watch Dogs 2,Games_json/Watch_Dogs/4cb1nh/video.mp4,True,True,"After being lifted, containers suddenly shoot upward into the sky without any force.","The objects accelerate vertically on their own, indicating unrealistic physics or force application.","{
+  ""reasoning"": ""The video shows the player character navigating through a facility, using a drone to observe the environment, and interacting with other characters. There are no visible glitches or abnormal behaviors in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character navigating through an industrial area with containers and equipment. There are no vehicles or objects launched or behaving abnormally. The player character does not interact with any vehicles or objects in a way that violates the listed glitch patterns. The environment and character movements appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.69,3.97,57947,62,59420,85
+4ucb8m,Watch Dogs 2,Games_json/Watch_Dogs/4ucb8m/video.mp4,False,True,,,"{
+  ""reasoning"": ""The character is seen crouching and moving around industrial barrels and equipment, which is typical gameplay behavior in a stealth or action game. There are no visible glitches or anomalies in the environment or character movement."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character interacting with various objects and environments in an industrial setting. There are no instances of vehicles being launched, heavy objects shooting upward, or characters passing through solid barriers. The player character does not exhibit any unusual animations or glitches related to the checklist items provided. The environment and character movements appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.15,4.57,57947,66,59420,92
+5bc0i8,Watch Dogs 2,Games_json/Watch_Dogs/5bc0i8/video.mp4,True,True,"A biker rides downhill, crashes through a wall, and remains unharmed while the wall breaks.","The collision destroys the wall but causes no damage to the rider, showing inconsistent collision and damage physics.","{
+  ""reasoning"": ""The video shows a character riding a motorcycle through a natural environment with trees, grass, and a city skyline in the background. There are no visible glitches or anomalies in the gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character riding a motorcycle through various environments, including rural and urban areas. The checklist items considered include vehicle launches, object launches, and character interactions. No instances of vehicles being launched or objects shooting upward, nor any character teleporting or performing impossible jumps or interactions were observed. The character's movement appears consistent with normal gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""No glitch observed in the video.""
+}",False,False,,No glitch observed in the video.,True,True,False,False,5.6,4.05,57947,61,59420,101
+5m08jw,Watch Dogs 2,Games_json/Watch_Dogs/5m08jw/video.mp4,True,True,"When the player approaches a car to enter it, the car suddenly disappears.","The vehicle vanishes upon interaction instead of allowing entry, indicating a rendering or state glitch.","{
+  ""reasoning"": ""The character is using a scooter and a car, which is a common gameplay mechanic in the game. The behavior of the character and vehicles appears normal and within the game's mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","```json
+{
+  ""reasoning"": ""The video shows a character walking towards a parked car, interacting with it, and then riding a scooter. There are no instances of vehicles being launched, objects shooting upward, or characters teleporting. The interactions and movements appear normal within the game's physics and environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}
+```",False,False,,,True,True,False,False,1.72,1.36,17234,61,18707,82
+77zgpl,Watch Dogs 2,Games_json/Watch_Dogs/77zgpl/video.mp4,True,True,"After the driver exits, the car continues moving on its own.","The vehicle keeps driving without a driver, indicating missing control or physics constraints.","{
+  ""reasoning"": ""The video shows a character in a white uniform running alongside a car on a bridge, which is a plausible action in the game. There are no visible glitches or abnormal behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character in a white uniform running alongside a car on a bridge. There are no visible glitches such as vehicles launching into the air, objects moving unnaturally, or characters teleporting. The character appears to be chasing the car, which is a plausible gameplay action."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.63,3.92,57947,60,59420,81
+79sja0,Watch Dogs 2,Games_json/Watch_Dogs/79sja0/video.mp4,False,True,,,"{
+  ""reasoning"": ""The car is driving on a bus lane, which is clearly marked with red paint and 'BUS' markings. There are no visible glitches or anomalies in the car's movement or the environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a car driving through the city at night. There are no instances of vehicles being launched, shooting upward, or passing through solid barriers. The car behaves normally, adhering to the game's physics and environment. No glitches are observed in the provided clips."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,9.5,7.74,57947,63,59420,79
+7rzgwr,Watch Dogs 2,Games_json/Watch_Dogs/7rzgwr/video.mp4,True,True,The player approaches a ladder to climb down but suddenly reacts as if falling from a height.,"Instead of climbing, the character triggers a fall animation abruptly, suggesting incorrect animation or state transition.","{
+  ""reasoning"": ""The character is shown performing parkour moves, which are common in the game and do not indicate a glitch. The environment and actions are consistent with gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character running and jumping on rooftops and ledges in an urban environment. There are no vehicles or heavy objects involved, and no unusual physics or glitches are observed. The character's movements are consistent with normal gameplay mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.68,3.84,57947,56,59420,74
+8qd9j1,Watch Dogs 2,Games_json/Watch_Dogs/8qd9j1/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a live streaming interface with a remote IP address and a live streaming status, indicating an ongoing hacking activity. The glitch is the sudden appearance of a black screen with no visible content, which is not typical for a live stream."",
+  ""glitch_detected"": true,
+  ""description_of_glitch"": ""Black screen during live streaming""
+}","{
+  ""reasoning"": ""The video shows a room with a person interacting with a computer setup, but there are no visible glitches such as vehicles launching, objects moving unnaturally, or characters teleporting. The environment appears to be a typical office or apartment with standard gameplay elements."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",True,False,Black screen during live streaming,,True,True,False,True,9.15,7.27,57947,79,59420,75
+9jmxs9,Watch Dogs 2,Games_json/Watch_Dogs/9jmxs9/video.mp4,True,True,"After crashing into a sign, the bike is launched into the air, flips multiple times, and lands without damage.",The vehicle performs unrealistic airborne flips and recovers without any crash consequences or damage.,"{
+  ""reasoning"": ""The video shows a consistent gameplay sequence with no visible glitches or anomalies in the environment or character behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a motorcycle being ridden on a highway and later on city streets. There are no instances of vehicles being launched into the air, objects moving unnaturally, or glitches in vehicle or character behavior. The motorcycle is controlled normally and there are no signs of glitches such as teleportation or unnatural physics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.59,4.1,57947,45,59420,86
+9wiyta,Watch Dogs 2,Games_json/Watch_Dogs/9wiyta/video.mp4,True,True,"A car flies over a wall, and an NPC follows it outside the area.","The vehicle moves through the air unnaturally, and the NPC pathing breaks by following it beyond normal boundaries.","{
+  ""reasoning"": ""The video shows a consistent environment with no visible glitches. The character is stationary, and the background elements like the car, building, and palm trees remain unchanged throughout the clips."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a consistent environment with no visible glitches. The character is stationary, and there are no vehicles or objects behaving abnormally. The background elements, such as the building, trees, and road, remain static and realistic throughout the clips. No checklist items are met."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,3.37,2.37,37184,60,38657,80
+ab0nx1,Watch Dogs 2,Games_json/Watch_Dogs/ab0nx1/video.mp4,True,True,Pedestrians avoid walking normally and instead jump into bushes and flowers while moving.,"NPCs choose unnatural paths, stepping or clipping through obstacles instead of navigating around them.","{
+  ""reasoning"": ""The video shows normal gameplay with characters walking and interacting in a park-like environment. There are no visible glitches or anomalies in the behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character walking down a staircase and a dog following. There are no vehicles, heavy objects, or other gameplay elements that match the glitch checklist items. The character and dog move normally without any unusual physics or glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.65,4.04,57947,52,59420,71
+adtnm4,Watch Dogs 2,Games_json/Watch_Dogs/adtnm4/video.mp4,True,True,"A motorcycle crash throws the rider off, causing visible damage.","The rider is ejected from the bike upon impact, showing a standard crash response with physical consequences.","{
+  ""reasoning"": ""The car is stationary in a grassy area with no visible damage or unusual behavior, and the environment looks normal for the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a yellow car driving through various environments, including streets, grassy areas, and near buildings. There are no instances of vehicles launching into the air, heavy objects shooting upward, vehicles flying over barriers, vehicles or objects disappearing suddenly, characters teleporting through solid objects, incorrect animations, vehicles passing through barriers, vehicles driving without a driver, NPCs walking through obstacles, characters being launched or thrown excessively, or vehicles falling through the map. The car is seen driving normally and stopping in different locations without any glitches."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""No glitch observed in the video.""
+}",False,False,,No glitch observed in the video.,True,True,False,False,5.63,4.22,57947,51,59420,136
+apd89h,Watch Dogs 2,Games_json/Watch_Dogs/apd89h/video.mp4,False,True,,,"{
+  ""reasoning"": ""The character is seen being lifted by a drone, which is a common gameplay mechanic in the game. The text on the screen indicates a tense situation, but there are no visible glitches or anomalies in the physics or rendering."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character being lifted by a drone in a warehouse setting. There are no visible glitches in the video. The player character is being hoisted by a drone, which is a normal gameplay mechanic in Watch Dogs 2. The character does not exhibit any abnormal behavior or visual anomalies that would indicate a glitch. The environment and interactions appear consistent with the game's physics and mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.07,4.55,57947,69,59420,104
+c1sjd3,Watch Dogs 2,Games_json/Watch_Dogs/c1sjd3/video.mp4,False,True,,,,,False,False,,,False,False,True,True,4.5,2.9,0,0,0,0
+du596t,Watch Dogs 2,Games_json/Watch_Dogs/du596t/video.mp4,True,True,The small remote-controlled car falls down and get beneath the map surface and everything become visible ftom the point of view.,,"{
+  ""reasoning"": ""The video shows a drone-like vehicle navigating through a construction site and flying through the air, which is plausible within the context of the game. There are no visible glitches or anomalies in the physics or rendering."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a small vehicle, likely a drone or a remote-controlled car, moving through a construction site with scaffolding and debris. There are no visible glitches such as vehicles launching into the air, objects moving unnaturally, or characters teleporting. The vehicle appears to be controlled and moving within the game environment without any abnormal behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.76,4.07,57947,66,59420,92
+f0ophe,Watch Dogs 2,Games_json/Watch_Dogs/f0ophe/video.mp4,True,True,"The player is being thrown toward the tree and after being hit by the tree, he gets damaged and eventually dies.",,"{
+  ""reasoning"": ""The video shows the character entering a restricted area and attempting to hack a transmitter, which is a common gameplay mechanic in the game. There are no visible glitches or anomalies in the behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character interacting with a device on a wall, attempting to hack a transmitter. There are no visible glitches such as vehicles launching, objects moving unnaturally, or characters teleporting. The environment and actions appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,5.73,4.08,57947,62,59420,75
+h3pku3,Watch Dogs 2,Games_json/Watch_Dogs/h3pku3/video.mp4,False,True,,,"{
+""reasoning"": ""The video shows normal gameplay with no visible glitches. The character is interacting with the game interface and environment without any unusual or physically anomalous behavior."",
+""glitch_detected"": false,
+""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character standing in various locations, interacting with the environment, and using the game's camera system. There are no vehicles or objects that match the glitch checklist items. The player does not perform any actions that would cause a glitch based on the provided checklist."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.21,4.54,57947,50,59420,80
+hap76u,Watch Dogs 2,Games_json/Watch_Dogs/hap76u/video.mp4,True,True,The player jumps from the ground directly onto a rooftop.,"The character performs an unusually high jump, reaching a roof in a way that defies normal movement limits.","{
+  ""reasoning"": ""The video shows the character walking and jumping between rooftops, which is a common gameplay mechanic in the game. There are no visible glitches or anomalies in the environment or character movement."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character walking on a rooftop and looking down at the street below. There are no vehicles or objects in the air, no sudden jumps or teleports, and no glitches in vehicle behavior. The character's movement is consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.03,4.41,57947,61,59420,77
+hgrk4v,Watch Dogs 2,Games_json/Watch_Dogs/hgrk4v/video.mp4,True,True,"After an explosion, the semi-trucks is launched into the air and spins uncontrollably.",The truck is propelled upward with excessive force and rotates mid-air in an unrealistic way.,"{
+  ""reasoning"": ""The video shows a police car being towed by a tow truck with smoke and fire effects, which is a plausible in-game event. The behavior is consistent with the game's mechanics and does not indicate a glitch."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a police car being towed by a tow truck, with smoke and fire visible. There are no visible glitches in the vehicle's behavior or physics. The police car is being properly towed and there are no signs of vehicles launching, flying, or behaving unnaturally. The environment and interactions appear plausible."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,False,False,6.2,4.49,57947,68,59420,89
+meeeix,Watch Dogs 2,Games_json/Watch_Dogs/meeeix/video.mp4,False,True,,,"{
+  ""reasoning"": ""The character is seen moving through various environments, including buildings and outdoor areas, without any visible glitches or abnormal behaviors. The actions are consistent with typical gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character moving around various environments, including buildings, fences, and open areas. There are no vehicles or objects that match the glitch checklist items. The character's movements and interactions with the environment appear normal, with no signs of glitches such as vehicles launching, objects disappearing, or characters teleporting. The player character is seen running, crouching, and interacting with the environment without any abnormal visual behaviors."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.41,4.91,57947,56,59420,110
+mkpoc2,Watch Dogs 2,Games_json/Watch_Dogs/mkpoc2/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a character moving through a house and interacting with various objects, but there are no visible glitches or anomalies in the gameplay. The behavior appears normal for a stealth or action game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character in a camo jacket and white cap moving around a wooden house with various windows, doors, and plants. There are no vehicles, heavy objects, or other characters that would trigger any of the listed glitch patterns. The character's movements and interactions with the environment appear normal and plausible within the game's physics and behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,9.56,7.81,57947,63,59420,94
+mmgsm2,Watch Dogs 2,Games_json/Watch_Dogs/mmgsm2/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a character walking down a city street, approaching an underground access point, and then descending stairs. There are no visible glitches or abnormal behaviors in the environment or character movement."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character standing near a parked car on a sidewalk. There are no visible glitches such as vehicles launching into the air, objects moving unnaturally, or characters teleporting. The environment and interactions appear consistent with normal gameplay."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,5.98,4.25,57947,62,59420,72
+nl777l,Watch Dogs 2,Games_json/Watch_Dogs/nl777l/video.mp4,False,True,,,"{
+  ""reasoning"": ""The boat is moving through water with visible splashes and the environment is consistent with a night-time setting in a game. There are no visible glitches or anomalies in the boat's movement or the environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a boat moving through water with a bridge in the background. There are no visible glitches such as vehicles launching into the air, objects moving unnaturally, or characters teleporting. The boat is moving at a normal speed and direction, and there are no signs of abnormal gameplay behavior."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,8.14,6.47,57947,65,59420,84
+qqeidk,Watch Dogs 2,Games_json/Watch_Dogs/qqeidk/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a character interacting with a futuristic control room, performing hacking actions as part of a tutorial. There are no visible glitches or anomalies in the environment or character movements."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character in a futuristic control room with multiple screens and computer setups. There are no vehicles, heavy objects, or characters that exhibit any of the glitch patterns listed. The character is seen interacting with the environment, but there are no airborne vehicles, objects shooting upward, or other anomalies. The character's movements and interactions appear normal within the context of the game."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": ""No glitches observed in the video.""
+}",False,False,,No glitches observed in the video.,True,True,True,True,11.27,9.62,57947,60,59420,107
+vrgj6c,Watch Dogs 2,Games_json/Watch_Dogs/vrgj6c/video.mp4,False,True,,,"{
+  ""reasoning"": ""The character is seen crouching and aiming a weapon, which is typical behavior in a combat scenario within the game. There are no visible glitches or anomalies in the environment or character movement."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character in a factory setting with various objects and structures. There are no vehicles or heavy objects launched or moving unnaturally, no vehicles or objects disappearing suddenly, no character teleportation, no incorrect animations, no objects passing through solid barriers, no vehicles driving without a driver, no NPCs walking through obstacles, no extreme jumps or falls, no RC car or drone falling through the map, and no large vehicle launched by explosion. Everything appears to be behaving normally within the game's physics and environment."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,6.57,5.18,57947,63,59420,128
+wqnmi4,Watch Dogs 2,Games_json/Watch_Dogs/wqnmi4/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows normal gameplay with no visible glitches. The character is climbing stairs and interacting with the environment, which is consistent with the game's mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows the player character climbing stairs and interacting with the environment. There are no vehicles, heavy objects, or characters that exhibit abnormal behavior such as flying, teleporting, or passing through solid objects. The player character's movements and interactions with the environment appear normal and consistent with the game's physics and mechanics."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,10.96,9.4,57947,55,59420,88
+yjrpyf,Watch Dogs 2,Games_json/Watch_Dogs/yjrpyf/video.mp4,False,True,,,"{
+  ""reasoning"": ""The video shows a character running through various industrial and urban environments at night, interacting with objects and other characters. There are no visible glitches or abnormal behaviors in the scenes provided."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}","{
+  ""reasoning"": ""The video shows a character in a dark, industrial area with various objects like barrels, tanks, and a news van. There are no vehicles or objects launched into the air, no sudden disappearances, and no unusual interactions with solid barriers. The character moves normally without any glitches in animations or physics. No checklist items are visibly violated."",
+  ""glitch_detected"": false,
+  ""description_of_glitch"": """"
+}",False,False,,,True,True,True,True,8.11,6.34,57947,60,59420,92

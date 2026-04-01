@@ -1,0 +1,82 @@
+================================================================================
+GAME-SPECIFIC MR GENERATION PROMPT
+================================================================================
+Used in Step 2 (§3.1.2) to generate game-specific candidate MRs.
+Model: Gemini 2.5 Pro | Temperature: 0.2
+Placeholders: {game}, {prefix}, {reports}
+================================================================================
+
+You are a game testing expert. I will provide community bug reports for the video game "{game}".
+
+Your task: analyze these bug reports and generate structured Metamorphic Relations (MRs) that a Vision-Language Model (VLM) can use as a checklist to detect bugs in gameplay videos.
+
+Each MR must follow this exact JSON format:
+{
+    "id": "{prefix}-001",
+    "name": "Short descriptive name",
+    "check_question": "A yes/no question a VLM can answer by watching a gameplay video. Use domain-specific terms for this game (e.g., 'stagecoach' instead of 'vehicle' for a Western game).",
+    "example": "A concrete example of this bug occurring in the game.",
+    "category": "One of: collision, character_physics, character_animation, vehicle_physics, environment_physics, rendering, camera, projectile, ui, object, character_model, audio"
+}
+
+Rules:
+1. Each MR must describe a VISUAL pattern detectable from video alone (no audio, no game state).
+2. Check questions must be specific enough to distinguish bugs from intentional mechanics.
+3. Use game-appropriate terminology (e.g., "horse" for RDR2, "motorcycle" for Cyberpunk).
+4. Merge similar reports into a single MR (e.g., "car through wall" and "NPC in floor" both become a clipping MR).
+5. Include a "not_a_bug" list of known intentional behaviors that visually resemble glitches.
+6. Generate IDs sequentially: {prefix}-001, {prefix}-002, etc.
+
+Additionally, generate a "not_a_bug" list:
+{
+    "not_a_bug": [
+        "Description of intentional mechanic that looks like a bug"
+    ]
+}
+
+BUG REPORTS:
+{reports}
+
+Respond with ONLY a JSON object containing:
+{
+    "game": "{game}",
+    "mrs": [ ... list of MR objects ... ],
+    "not_a_bug": [ ... list of strings ... ]
+}
+
+
+================================================================================
+GENERIC MR GENERATION PROMPT
+================================================================================
+Used in Step 2 (§3.1.2) to generate generic candidate MRs from all games.
+Model: Gemini 2.5 Pro | Temperature: 0.2
+Placeholder: {reports}
+================================================================================
+
+You are a game testing expert. I will provide community bug reports from multiple video games.
+
+Your task: analyze these reports and generate GENERIC Metamorphic Relations (MRs) that apply to ANY video game. These should encode universal physical invariants whose violations indicate bugs.
+
+Each MR must follow this exact JSON format:
+{
+    "id": "MR-001",
+    "name": "Short descriptive name",
+    "check_question": "A yes/no question a VLM can answer by watching gameplay video from any game.",
+    "example": "A concrete example from any game.",
+    "category": "One of: collision, character_physics, character_animation, vehicle_physics, environment_physics, rendering, camera, projectile, ui, object, character_model, audio"
+}
+
+Rules:
+1. Each MR must describe a VISUAL pattern detectable from video alone.
+2. Check questions must be general enough to apply across games and genres.
+3. Use generic terms (e.g., "vehicle" not "car", "character" not "NPC").
+4. Focus on physical invariants: collision, gravity, animation consistency, object permanence.
+5. Generate IDs sequentially: MR-001, MR-002, etc.
+
+BUG REPORTS FROM MULTIPLE GAMES:
+{reports}
+
+Respond with ONLY a JSON object containing:
+{
+    "mrs": [ ... list of MR objects ... ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "game_specific",
+  "game": "Just Cause 3",
+  "engine": "Avalanche Engine",
+  "count": 8,
+  "metamorphic_relations": [
+    {
+      "id": "JC-001",
+      "category": "vehicle_physics",
+      "name": "Vehicle launched extreme distance by explosion",
+      "check": "Is a truck, dune buggy, or other vehicle catapulted an extreme distance or height by an explosion that is too small to justify the force?"
+    },
+    {
+      "id": "JC-002",
+      "category": "collision",
+      "name": "Vehicle or aircraft clips into ground",
+      "check": "Is a jet, plane, or vehicle partially embedded in the terrain \u2014 stuck halfway into the ground, rotating while buried, or with parts visibly below the surface?"
+    },
+    {
+      "id": "JC-003",
+      "category": "physics",
+      "name": "Destroyed wreckage floats in air",
+      "check": "Is a destroyed vehicle wreckage (burning helicopter, blown-up car) hovering or floating in the air instead of resting on the ground?"
+    },
+    {
+      "id": "JC-004",
+      "category": "object_physics",
+      "name": "Structure spins uncontrollably",
+      "check": "Is a structure like an antenna, satellite dish, or mounted object spinning wildly or continuously rotating, possibly dragging an attached player along with it?"
+    },
+    {
+      "id": "JC-005",
+      "category": "vehicle_physics",
+      "name": "Vehicle explodes from minor or no contact",
+      "check": "Does a motorcycle, moped, or vehicle detonate violently from a low-speed collision or minor wall contact that should cause only minor damage?"
+    },
+    {
+      "id": "JC-006",
+      "category": "physics",
+      "name": "Object stuck in infinite falling animation",
+      "check": "Does an object enter a falling animation and remain stuck in it even after touching ground, unable to stand or move properly?"
+    },
+    {
+      "id": "JC-007",
+      "category": "collision",
+      "name": "Vehicle duplicates when delivered",
+      "check": "When calling a rebel drop or delivery vehicle, does a second identical vehicle spawn on top of or next to the first one?"
+    },
+    {
+      "id": "JC-008",
+      "category": "physics",
+      "name": "Wingsuit collision launches an object vertically",
+      "check": "Does lightly clipping a tree, pole, or small object launch the object like NPC or the main character straight upward or backward at extreme speed?"
+    }
+  ]
+}

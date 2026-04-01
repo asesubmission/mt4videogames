@@ -1,0 +1,62 @@
+{
+  "type": "game_specific",
+  "game": "The Elder Scrolls V - Skyrim",
+  "engine": "Creation Engine",
+  "count": 9,
+  "metamorphic_relations": [
+    {
+      "id": "SK-001",
+      "category": "physics",
+      "name": "Creature launched into sky",
+      "check": "Is a bear, mammoth, sabre cat, or other creature catapulted upward into the sky? The creature should be clearly flying unnaturally high, not just rearing up."
+    },
+    {
+      "id": "SK-002",
+      "category": "physics",
+      "name": "Player or object floats upward",
+      "check": "Is the player character or an object (bucket, plate, basket) rising vertically into the sky?"
+    },
+    {
+      "id": "SK-003",
+      "category": "animation",
+      "name": "Creature animation anomaly",
+      "check": "Is a creature or NPC spinning in place, sliding across the floor without walking animation, twitching rapidly, or twisting their body in impossible ways?"
+    },
+    {
+      "id": "SK-004",
+      "category": "collision",
+      "name": "NPC or corpse clips through geometry",
+      "check": "Is an NPC or dead body partially embedded in a closed door, wall, or floor?"
+    },
+    {
+      "id": "SK-005",
+      "category": "physics",
+      "name": "Horse walks up vertical cliff",
+      "check": "Is a horse moving straight up a very steep or vertical cliff as if it were flat ground?"
+    },
+    {
+      "id": "SK-006",
+      "category": "spawning",
+      "name": "NPC duplicates in same location",
+      "check": "Are two identical NPCs standing in the same place performing the same idle animation?"
+    },
+    {
+      "id": "SK-007",
+      "category": "object_physics",
+      "name": "Loose objects vibrate violently",
+      "check": "Are small objects (plates, books, bones) shaking, vibrating, or bouncing rapidly on a flat surface with no visible force applied?"
+    },
+    {
+      "id": "SK-008",
+      "category": "animation",
+      "name": "NPC stuck in T-pose or idle pose",
+      "check": "Is an NPC frozen in a rigid pose with arms stretched or body stiff while sliding or moving?"
+    },
+    {
+      "id": "SK-009",
+      "category": "collision",
+      "name": "Dragon skeleton stretches unnaturally",
+      "check": "After killing a dragon, does its skeleton twist, stretch, or snap into extreme elongated shapes across the terrain?"
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "model": "Qwen2.5-VL-32B-Instruct",
+  "experiment_start": null,
+  "experiment_end": null,
+  "dataset": {
+    "total_clips": 270,
+    "clips_with_gt": 270,
+    "clips_without_gt": 0,
+    "buggy_clips": 135,
+    "clean_clips": 135
+  },
+  "invalid_json_responses": {
+    "baseline": 0,
+    "with_properties": 1
+  },
+  "detection_metrics": {
+    "baseline": {
+      "tp": 7,
+      "fn": 128,
+      "fp": 0,
+      "tn": 135,
+      "precision": 1.0,
+      "recall": 0.0519,
+      "f1": 0.0986,
+      "accuracy": 0.5259,
+      "specificity": 1.0,
+      "fpr": 0.0
+    },
+    "with_properties": {
+      "tp": 14,
+      "fn": 121,
+      "fp": 0,
+      "tn": 135,
+      "precision": 1.0,
+      "recall": 0.1037,
+      "f1": 0.1879,
+      "accuracy": 0.5519,
+      "specificity": 1.0,
+      "fpr": 0.0
+    }
+  },
+  "description_correctness": {
+    "baseline": {
+      "correct": 7,
+      "predicted_positives": 17,
+      "rate": 0.4118
+    },
+    "with_properties": {
+      "correct": 14,
+      "predicted_positives": 28,
+      "rate": 0.5
+    }
+  },
+  "improvement": {
+    "improved": 18,
+    "regressed": 7,
+    "net_gain": 11
+  },
+  "per_game": {
+    "Cyberpunk 2077": {
+      "n": 38,
+      "n_buggy": 19,
+      "n_clean": 19,
+      "baseline": {
+        "tp": 0,
+        "fn": 19,
+        "fp": 0,
+        "tn": 19,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 1,
+        "fn": 18,
+        "fp": 0,
+        "tn": 19,
+        "precision": 1.0,
+        "recall": 0.0526,
+        "specificity": 1.0
+      }
+    },
+    "Fallout": {
+      "n": 11,
+      "n_buggy": 0,
+      "n_clean": 11,
+      "baseline": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 11,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 11,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      }
+    },
+    "Fallout 4": {
+      "n": 11,
+      "n_buggy": 11,
+      "n_clean": 0,
+      "baseline": {
+        "tp": 0,
+        "fn": 11,
+        "fp": 0,
+        "tn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 0.0
+      },
+      "props": {
+        "tp": 1,
+        "fn": 10,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.0909,
+        "specificity": 0.0
+      }
+    },
+    "Fallout 76": {
+      "n": 30,
+      "n_buggy": 15,
+      "n_clean": 15,
+      "baseline": {
+        "tp": 1,
+        "fn": 14,
+        "fp": 0,
+        "tn": 15,
+        "precision": 1.0,
+        "recall": 0.0667,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 2,
+        "fn": 13,
+        "fp": 0,
+        "tn": 15,
+        "precision": 1.0,
+        "recall": 0.1333,
+        "specificity": 1.0
+      }
+    },
+    "Far Cry": {
+      "n": 12,
+      "n_buggy": 0,
+      "n_clean": 12,
+      "baseline": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 12,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 12,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      }
+    },
+    "Far Cry 5": {
+      "n": 12,
+      "n_buggy": 12,
+      "n_clean": 0,
+      "baseline": {
+        "tp": 3,
+        "fn": 9,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.25,
+        "specificity": 0.0
+      },
+      "props": {
+        "tp": 4,
+        "fn": 8,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.3333,
+        "specificity": 0.0
+      }
+    },
+    "GTA V": {
+      "n": 14,
+      "n_buggy": 0,
+      "n_clean": 14,
+      "baseline": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 14,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 14,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      }
+    },
+    "Grand Theft Auto V": {
+      "n": 14,
+      "n_buggy": 14,
+      "n_clean": 0,
+      "baseline": {
+        "tp": 1,
+        "fn": 13,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.0714,
+        "specificity": 0.0
+      },
+      "props": {
+        "tp": 1,
+        "fn": 13,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.0714,
+        "specificity": 0.0
+      }
+    },
+    "Just Cause": {
+      "n": 10,
+      "n_buggy": 0,
+      "n_clean": 10,
+      "baseline": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 10,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 10,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      }
+    },
+    "Just Cause 3": {
+      "n": 10,
+      "n_buggy": 10,
+      "n_clean": 0,
+      "baseline": {
+        "tp": 1,
+        "fn": 9,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.1,
+        "specificity": 0.0
+      },
+      "props": {
+        "tp": 1,
+        "fn": 9,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.1,
+        "specificity": 0.0
+      }
+    },
+    "Red Dead Redemption 2": {
+      "n": 38,
+      "n_buggy": 19,
+      "n_clean": 19,
+      "baseline": {
+        "tp": 0,
+        "fn": 19,
+        "fp": 0,
+        "tn": 19,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 3,
+        "fn": 16,
+        "fp": 0,
+        "tn": 19,
+        "precision": 1.0,
+        "recall": 0.1579,
+        "specificity": 1.0
+      }
+    },
+    "The Elder Scrolls": {
+      "n": 10,
+      "n_buggy": 0,
+      "n_clean": 10,
+      "baseline": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 10,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 10,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      }
+    },
+    "The Elder Scrolls V - Skyrim": {
+      "n": 10,
+      "n_buggy": 10,
+      "n_clean": 0,
+      "baseline": {
+        "tp": 1,
+        "fn": 9,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.1,
+        "specificity": 0.0
+      },
+      "props": {
+        "tp": 1,
+        "fn": 9,
+        "fp": 0,
+        "tn": 0,
+        "precision": 1.0,
+        "recall": 0.1,
+        "specificity": 0.0
+      }
+    },
+    "The Witcher 3": {
+      "n": 10,
+      "n_buggy": 0,
+      "n_clean": 10,
+      "baseline": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 10,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 0,
+        "fp": 0,
+        "tn": 10,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      }
+    },
+    "The Witcher 3 - Wild Hunt": {
+      "n": 10,
+      "n_buggy": 10,
+      "n_clean": 0,
+      "baseline": {
+        "tp": 0,
+        "fn": 10,
+        "fp": 0,
+        "tn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 0.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 10,
+        "fp": 0,
+        "tn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 0.0
+      }
+    },
+    "Watch Dogs 2": {
+      "n": 30,
+      "n_buggy": 15,
+      "n_clean": 15,
+      "baseline": {
+        "tp": 0,
+        "fn": 15,
+        "fp": 0,
+        "tn": 15,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      },
+      "props": {
+        "tp": 0,
+        "fn": 15,
+        "fp": 0,
+        "tn": 15,
+        "precision": 0.0,
+        "recall": 0.0,
+        "specificity": 1.0
+      }
+    }
+  },
+  "timing": {
+    "total_baseline_time_s": 3119.32,
+    "total_props_time_s": 1922.28,
+    "mean_baseline_time_s": 11.553,
+    "mean_props_time_s": 7.12,
+    "total_wall_time_s": null
+  },
+  "tokens": {
+    "total_baseline_prompt_tokens": 7601333,
+    "total_baseline_completion_tokens": 16609,
+    "total_props_prompt_tokens": 7896443,
+    "total_props_completion_tokens": 41408,
+    "total_prompt_tokens": 15497776,
+    "total_completion_tokens": 58017,
+    "total_tokens": 15555793
+  },
+  "metadata": {
+    "matcher": "claude-sonnet-4-20250514",
+    "condition": "generic"
+  }
+}

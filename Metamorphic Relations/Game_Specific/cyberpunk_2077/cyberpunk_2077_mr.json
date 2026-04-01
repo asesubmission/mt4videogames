@@ -1,0 +1,104 @@
+{
+  "type": "game_specific",
+  "game": "Cyberpunk 2077",
+  "engine": "REDengine 4",
+  "count": 16,
+  "metamorphic_relations": [
+    {
+      "id": "CP-001",
+      "category": "collision",
+      "name": "Vehicle clips through solid object",
+      "check": "Does a car or vehicle pass through, overlap, or become embedded in a solid object such as a fence, container, debris pile, or another vehicle? Look for vehicle meshes intersecting with barriers they should collide with."
+    },
+    {
+      "id": "CP-002",
+      "category": "collision",
+      "name": "NPC or person clips through structure",
+      "check": "Does an NPC or character walk through a closed door, stand inside furniture, or have their body partially overlapping a solid object like a wheelchair, container, or wall?"
+    },
+    {
+      "id": "CP-003",
+      "category": "vehicle_physics",
+      "name": "Vehicle launched or floating",
+      "check": "Is a car, motorcycle, or other vehicle launched into the sky, hovering above the road, or sent flying from a minor collision or while parked? The force should be disproportionate to the cause."
+    },
+    {
+      "id": "CP-004",
+      "category": "npc_behavior",
+      "name": "NPC teleports or instant pose change",
+      "check": "Does an NPC instantly snap to a new position or pose without any walk, stand-up, or transition animation? Look for characters suddenly appearing in a different stance or location between frames."
+    },
+    {
+      "id": "CP-005",
+      "category": "object_physics",
+      "name": "Object rotates or vibrates without cause",
+      "check": "Is a box, shelf, crate, or other prop spinning, rotating, or vibrating on the ground with no character or force acting on it?"
+    },
+    {
+      "id": "CP-006",
+      "category": "spawning",
+      "name": "NPC or object despawns visibly",
+      "check": "Does an NPC or object abruptly disappear from the screen while the player is looking at it, with no explosion, death, or door to explain it?"
+    },
+    {
+      "id": "CP-007",
+      "category": "rendering",
+      "name": "Invisible held item",
+      "check": "Is a character holding, swinging, or using an invisible weapon or object? Their hands are empty but their animation suggests they are gripping something."
+    },
+    {
+      "id": "CP-008",
+      "category": "system",
+      "name": "Game freeze mid-action",
+      "check": "Has the game frozen completely \u2014 the frame is stuck, animations stop, but HUD or particle effects may still be visible? This is distinct from a pause menu."
+    },
+    {
+      "id": "CP-009",
+      "category": "npc_behavior",
+      "name": "NPC remains in combat state without threat",
+      "check": "Do NPCs remain crouched, aiming, or shouting combat dialogue even though all enemies are dead and no gunfire or threat is present? They should return to normal civilian or patrol behavior."
+    },
+    {
+      "id": "CP-010",
+      "category": "object_physics",
+      "name": "Summoned vehicle fails to arrive or spawns underground",
+      "check": "After calling a personal vehicle, does it fail to appear, spawn partially inside the ground, or appear flipped or stuck in terrain instead of arriving normally on a nearby road?"
+    },
+    {
+      "id": "CP-011",
+      "category": "animation",
+      "name": "T-pose or frozen animation state",
+      "check": "Does a character appear stuck in a T-pose or frozen idle pose while still moving or sliding across the ground? Their animation rig should respond naturally to movement."
+    },
+    {
+      "id": "CP-012",
+      "category": "object_physics",
+      "name": "Objective marker present but no interact prompt",
+      "check": "Is a quest objective marker visible, but the required object or NPC cannot be interacted with despite being in range? There should be a usable prompt when conditions are met."
+    },
+    {
+      "id": "CP-013",
+      "category": "system",
+      "name": "Dialogue audio missing but subtitles active",
+      "check": "Do subtitles display for a conversation while no voice audio plays, even though other ambient sounds and effects are functioning normally?"
+    },
+    {
+      "id": "CP-014",
+      "category": "system",
+      "name": "HUD element persists after context ends",
+      "check": "Does a tutorial hint, phone UI, braindance overlay, or scanning effect remain on screen after exiting that mode or finishing the related activity?"
+    },
+    {
+      "id": "CP-015",
+      "category": "object_physics",
+      "name": "Traffic vehicle stops permanently without obstruction",
+      "check": "Does a traffic car stop in the middle of a clear road and remain stationary indefinitely, even though there is no visible obstacle or red light?"
+    },
+    {
+      "id": "CP-016",
+      "category": "system",
+      "name": "World geometry fails to load while player can move",
+      "check": "Can the player move freely while buildings, roads, or terrain fail to load, leaving empty space or void areas where geometry should exist?"
+    }
+  ]
+}
