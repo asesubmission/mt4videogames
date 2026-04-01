@@ -9,9 +9,10 @@
 MetaGlitch is a metamorphic testing methodology that improves VLM-based video game bug detection by injecting physics-grounded metamorphic relations (MRs) into VLM prompts. MRs encode visual invariants of correct gameplay whose violations signal bugs.
 
 **Key results:**
+- Gemini 2.5 Flash with MRs (**39.3%**) surpasses unguided Gemini 2.5 Pro (**29.6%**)
 - Game-specific MRs improve recall by **+5.2 to +14.8 pp** across all six VLMs
 - Precision remains high (**76.8–100%**) with near-zero false positive rates
-- Gemini 2.5 Flash with MRs (39.3%) surpasses unguided Gemini 2.5 Pro (29.6%)
+
 
 ---
 
