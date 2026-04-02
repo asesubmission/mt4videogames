@@ -3,7 +3,7 @@
 **Replication Package — ASE 2026**
 
 <p align="center">
-  <img src="assets/metaglitch_demo.gif" alt="MetaGlitch detecting a physics bug in Far Cry 5" width="640">
+  <img src="/metaglitch_demo.gif" alt="MetaGlitch detecting a physics bug in Far Cry 5" width="640">
 </p>
 
  
