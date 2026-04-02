@@ -1,6 +1,13 @@
-# MetaGlitch: Physics-Grounded Metamorphic Testing for Video Game Testing
+# 🎮 MetaGlitch: Physics-Grounded Metamorphic Testing for Video Game Testing
 
-**Replication Package — ASE 2026**
+<p align="center">
+  <img src="https://img.shields.io/badge/ASE-2026-blue?style=flat-square" alt="ASE 2026">
+  <img src="https://img.shields.io/badge/Python-3.10+-green?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="MIT License">
+  <img src="https://img.shields.io/badge/Games-10-orange?style=flat-square" alt="10 Games">
+  <img src="https://img.shields.io/badge/VLMs-6-purple?style=flat-square" alt="6 VLMs">
+  <img src="https://img.shields.io/badge/Clips-270-red?style=flat-square" alt="270 Clips">
+</p>
 
 <p align="center">
   <img src="/Assets/metaglitch_demo.gif" alt="MetaGlitch detecting a physics bug in Far Cry 5" width="640">
@@ -9,19 +16,19 @@
  
 ---
 
-## Overview
+## 📋 Overview
 
 MetaGlitch is a metamorphic testing methodology that improves VLM-based video game bug detection by injecting physics-grounded metamorphic relations (MRs) into VLM prompts. MRs encode visual invariants of correct gameplay whose violations signal bugs.
 
 **Key results:**
-- Gemini 2.5 Flash with MRs (**39.3%**) surpasses unguided Gemini 2.5 Pro (**29.6%**)
-- Game-specific MRs improve recall by **+5.2 to +14.8 pp** across all six VLMs
-- Precision remains high (**76.8–100%**) with near-zero false positive rates
+- 🏆 Gemini 2.5 Flash with MRs (**39.3%**) surpasses unguided Gemini 2.5 Pro (**29.6%**)
+- 📈 Game-specific MRs improve recall by **+5.2 to +14.8 pp** across all six VLMs
+- 🎯 Precision remains high (**76.8–100%**) with near-zero false positive rates
 
 
 ---
 
-## Package Contents
+## 📦 Package Contents
 
 ```
 Replication_Package_ASE_2026/
@@ -90,11 +97,11 @@ Replication_Package_ASE_2026/
         └── qwenvl_gpu_environment.yml  # Conda environment for open-weight models
 ```
 
-**Note on the two game-specific data directories:** The experiment was initially run on 8 games (210 clips). Two additional games — Fallout 76 and Watch Dogs 2 — were added later (60 clips: 30 buggy, 30 clean). All paper results combine both directories to produce the full 270-clip dataset. Scripts that accept `--rematched-dir` can be pointed at either directory individually; to reproduce the paper's aggregate numbers, run on both and combine.
+> **Note:** The experiment was initially run on 8 games (210 clips). Two additional games — Fallout 76 and Watch Dogs 2 — were added later (60 clips). All paper results combine both directories for the full 270-clip dataset.
 
 ---
 
-## Requirements
+## ⚙️ Requirements
 
 **Full environment (includes VLM inference + all analysis scripts):**
 
@@ -113,7 +120,7 @@ pip install pandas scipy scikit-learn statsmodels anthropic
 
 ---
 
-## Downloading the Dataset
+## 📥 Downloading the Dataset
 
 The dataset includes 270 ground-truth annotation files (`gt.json`) organized by game, but **video clips are not bundled** due to size and licensing constraints. A download script fetches the clips from their original sources (YouTube and Reddit).
 
@@ -134,13 +141,13 @@ python download_clips.py --root ../Games_json
 
 The script walks every subfolder in `Games_json/`, reads `gt.json`, and downloads the video as `video.mp4` in the same folder. It automatically handles YouTube (with segment timestamps), Reddit post URLs, direct `v.redd.it` links, and imgur URLs. Already-downloaded clips are skipped.
 
-**Note:** YouTube requires browser cookies to avoid HTTP 403 errors — use `--cookies-from-browser` with your browser name (chrome, firefox, safari, edge). Some Reddit video links may have expired since data collection; this is a known limitation of the GamePhysics dataset. The script reports failed downloads at the end.
+> **Note:** YouTube requires browser cookies to avoid HTTP 403 errors — use `--cookies-from-browser` with your browser name (chrome, firefox, safari, edge). Some Reddit video links may have expired since data collection; this is a known limitation of the GamePhysics dataset.
 
 ---
 
-## Reproducing Results
+## 🔬 Reproducing Results
 
-### From pre-computed data (fastest)
+### 📊 From pre-computed data (fastest)
 
 All experiment outputs are included in `Raw Data/`. The 18 CSVs contain per-clip VLM predictions with Claude Sonnet 4 matcher verdicts. The 12 JSON summaries contain all aggregate metrics reported in the paper.
 
@@ -170,7 +177,6 @@ python compute_kappa.py \
 To recompute statistical significance (McNemar's test):
 
 ```bash
-# Must include both directories to cover all 270 clips
 python mcnemar_test.py \
     --rematched-dir "../Raw Data/With Game-Specific MRs - 210 clips/" \
                     "../Raw Data/With Game-Specific MRs - New 60 clips/"
@@ -179,15 +185,14 @@ python mcnemar_test.py \
 To recompute MR citation analysis (RQ2):
 
 ```bash
-# Must include both directories to cover all 270 clips
 python mr_citation_analysis.py \
     --rematched-dir "../Raw Data/With Game-Specific MRs - 210 clips/" \
                     "../Raw Data/With Game-Specific MRs - New 60 clips/"
 ```
 
-### Full pipeline reproduction
+### 🔧 Full pipeline reproduction
 
-#### Step 1: Mine community bug reports
+#### Step 1 🕷️ Mine community bug reports
 
 ```bash
 python mine_community_bugs.py --output-dir ./mined_reports/
@@ -195,7 +200,7 @@ python mine_community_bugs.py --output-dir ./mined_reports/
 
 Crawls Steam Community Discussions and GameFAQs (via Google search) for visual/physics bug reports across all 10 games.
 
-#### Step 2: Generate candidate MRs
+#### Step 2 🧬 Generate candidate MRs
 
 ```bash
 export GOOGLE_API_KEY="your-key"
@@ -207,11 +212,11 @@ python generate_mrs.py \
 
 Feeds mined reports to Gemini 2.5 Pro to produce structured candidate MRs.
 
-#### Step 3: Manual review (human process)
+#### Step 3 👁️ Manual review (human process)
 
 Two authors independently reviewed each candidate MR against three criteria: (1) detectable from video alone, (2) broad enough to justify inclusion, (3) distinguishes bugs from intentional design. Disagreements were resolved through negotiated agreement. The validated MRs are in `Metamorphic Relations/`.
 
-#### Step 4: Run VLM experiments
+#### Step 4 🚀 Run VLM experiments
 
 **Proprietary models (Gemini):**
 
@@ -270,7 +275,7 @@ Model-specific adjustments:
 | Qwen2.5-VL-32B | 4 | 4 | `Qwen/Qwen2.5-VL-32B-Instruct` |
 | Qwen2.5-VL-7B | 1 | 1 | `Qwen/Qwen2.5-VL-7B-Instruct` |
 
-#### Step 5: Semantic matching
+#### Step 5 🔗 Semantic matching
 
 ```bash
 export ANTHROPIC_API_KEY="your-key"
@@ -284,7 +289,7 @@ python rematch_with_llm.py \
 
 ---
 
-## Dataset
+## 🗂️ Dataset
 
 | Component | Count | Source |
 |-----------|-------|--------|
@@ -307,7 +312,7 @@ The evaluation clips are independent of the community posts used for MR mining, 
 | `Source` | URL to download the video (YouTube, Reddit, or direct link) |
 | `Segment` | Start/end timestamps in seconds (YouTube clean clips only) |
 
-## Models
+## 🤖 Models
 
 | Model | Type | Input | Deployment |
 |-------|------|-------|------------|
@@ -318,13 +323,13 @@ The evaluation clips are independent of the community posts used for MR mining, 
 | Qwen2.5-VL-32B | Open-weight | ≤25 frames | vLLM (4×A100) |
 | Qwen2.5-VL-7B | Open-weight | ≤25 frames | vLLM (1×A100) |
 
-## Evaluation
+## 📊 Evaluation
 
 We use a **description-aware** evaluation where a detection counts as TP only when the VLM correctly identifies a bug AND its description semantically matches the ground truth. Claude Sonnet 4 serves as the semantic matcher, validated by two authors on 256 stratified samples (Cohen's κ = 0.90 and 0.88 between each author and the matcher; κ = 0.96 between authors).
 
 ---
 
-## CSV Column Reference
+## 📄 CSV Column Reference
 
 | Column | Description |
 |--------|-------------|
@@ -340,4 +345,4 @@ We use a **description-aware** evaluation where a detection counts as TP only wh
 | `props_correct_match` | Matcher verdict for MR-augmented |
 | `baseline_raw`, `props_raw` | Full VLM JSON responses |
 
-**Note:** The generic MR CSVs (`With Generic MRs/`) do not contain `baseline_*` columns, as the baseline is identical across conditions and is stored in the game-specific CSVs.
+> **Note:** The generic MR CSVs (`With Generic MRs/`) do not contain `baseline_*` columns, as the baseline is identical across conditions and is stored in the game-specific CSVs.
